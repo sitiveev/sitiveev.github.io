@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" pageRef="src/assets/page34/" headColor="#006699" fontDesc="18px calibribold"  pageDis=".35,.65">
+        <audioArray array="null" idArray="nul"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page34/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q10. A bacterial culture follows the growth equation y = 4(2)<sup>x</sup> where y is the number of bacteria after x seconds. Which of the following graphs represents the growth curve? What is the number of bacteria at the start? What is the rate constant?<br>
+        <img src ="src/assets/page34/image/page34Image01.png"><br></font></p>]]></screenText>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph d, starting number of bacteria = 4, k = 1 s<sup>-1</sup> </font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph a, starting number of bacteria = 4, k = -1 s<sup>-1</sup> </font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph c, starting number of bacteria = 2, k = 1 s<sup>-1</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph b, starting number of bacteria = -4, k = -1 s<sup>-1</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph a, starting number of bacteria = 4, k = unknown</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+From the given equation, at x = 0, y = 4. At x = 1, y = 8. Only graph d passes through these two points: (0,1) and (1, 8)). By comparing the given equation with Y = N<sub>0</sub>(2)<sup>kx</sup> we see the starting number of bacteria N<sub>0</sub> = 4, and k = 1 s<sup>-1</sup>.<br><br>
+<img src ="src/assets/page34/image/page34Image5.png"><br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+From the given equation, at x = 0, y = 4. At x = 1, y = 8. Only graph d passes through these two points: (0,1) and (1, 8)). By comparing the given equation with Y = N<sub>0</sub>(2)<sup>kx</sup> we see the starting number of bacteria N<sub>0</sub> = 4, and k = 1 s<sup>-1</sup>.<br><br>
+<img src ="src/assets/page34/image/page34Image5.png"><br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

@@ -1,0 +1,145 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LinearExponential</title>
+
+    <link rel="stylesheet" href="src/css/font.css">
+    <link rel="stylesheet" href="src/css/skins/all.css">
+    <link rel="stylesheet" href="src/css/framework.css">
+    <link rel="stylesheet" href="src/css/table.css">
+    <link rel="stylesheet" href="src/css/container.css">
+    <link rel="stylesheet" href="src/css/SliderOreintation.css">
+    <link rel="stylesheet" href="src/css/buttons.css">
+    <link rel="stylesheet" href="src/css/sticky.css">
+    <link rel="stylesheet" href="src/css/jquery.custom-scrollbar.css">
+    <link rel="stylesheet" href="src/css/loginPopup.css">
+    <link rel="stylesheet" href="src/css/jpicker/jPicker-1.1.6.css">
+
+
+    <link rel="stylesheet" href="src/css/themes/base/jquery.ui.all.css">
+    <link rel="stylesheet" href="src/css/reveal.css">
+    <link rel="stylesheet" href="src/libs/videoPlayer/mediaelementplayer.css" />
+    <link rel="stylesheet" href="src/libs/videoPlayer/mejs-skins.css" />
+
+    <script type="text/javascript"
+            src="src/libs/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        MathJax.Hub.Config({
+            "HTML-CSS": {
+                linebreaks:{automatic:true},
+                preferredFont:null,
+                webFont:"STIX-General",
+                imageFont:null
+            }
+        });
+    </script>
+
+
+    <script type="text/javascript" src="src/libs/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="src/libs/jquery/jquery-ui-1.10.4.custom.js"></script>
+    <script src="src/libs/jquery/UI/jquery.ui.core.js"></script>
+    <script src="src/libs/jquery/UI/jquery.ui.widget.js"></script>
+    <script src="src/libs/jquery/UI/jquery.ui.mouse.js"></script>
+    <script src="src/libs/jquery/UI/jquery.ui.draggable.js"></script>
+    <script type="text/javascript" src="src/libs/jquery/jquery.reveal.js"></script>
+    <script type="text/javascript" src="src/libs/jquery/jquery.ui.touch-punch.js"></script>
+    <script type="text/javascript" src="src/libs/jquery/jquery.ui.accordion.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/icheck.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/jquery.custom-scrollbar.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/jquery.maphilight.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/jquery.eraser.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/jquery.textHighlighter.js"></script>
+    <script type="text/javascript" src="src/libs/plugins/jQuery.print.js"></script>
+
+
+
+
+    <script src="src/libs/iwb/libs/console.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/libs/base64.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/libs/canvas2image.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/whiteboard.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/whiteboardui.jquery.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/stickynotes/jquery.stickynote.js" type="application/javascript"></script>
+    <script src="src/libs/plugins/line.js" type="application/javascript"></script>
+    <script src="src/libs/iwb/fabric/dist/fabric.js" type="application/javascript"></script>
+    <script src="src/libs/plugins/selctionObjectCanvas.js" type="application/javascript"></script>
+    <script src="src/libs/plugins/jpicker-1.1.6.js" type="application/javascript"></script>
+
+
+    <script src="src/libs/videoPlayer/mediaelement.js"></script>
+    <script src="src/libs/videoPlayer/mediaelementplayer.js"></script>
+
+
+    <script src="src/framework.js"></script>
+    <script src="src/com/introductionPage.js"></script>
+    <script src="src/com/scrollBar/scrollBar.js"></script>
+    <script src="src/com/model/gameState.js"></script>
+    <script src="src/com/model/gameLayout.js"></script>
+    <script src="src/com/pages/audioTypePage/createPageaudio.js"></script>
+    <script src="src/com/utils/chartBar.js"></script>
+    <script src="src/com/pages/pageCreator.js"></script>
+    <script src="src/com/audioController/audioController.js"></script>
+    <script src="src/com/animation/spriteAnim.js"></script>
+    <script src="src/com/imagePrp/addGUIImages.js"></script>
+    <script src="src/com/pages/tabCreator/tabCreator.js"></script>
+    <script src="src/com/xmlparser/parser.js"></script>
+    <script src="src/com/activity/preAssesment.js"></script>
+    <script src="src/com/activity/addQuestion.js"></script>
+    <script src="src/com/activity/type/MCSS.js"></script>
+    <script src="src/com/activity/type/MCMS.js"></script>
+    <script src="src/com/utils/createRadioButton.js"></script>
+    <script src="src/com/utils/createPopup.js"></script>
+    <script type="text/javascript" src="src/com/imagePrp/addNormalImages.js"></script>
+    <script type="text/javascript" src="src/com/utils/iwbTransPanel.js"></script>
+    <script type="text/javascript" src="src/com/buttonpanel/ButtonPanel.js"></script>
+    <script type="text/javascript" src="src/com/swipePageHandler/swipeHandler.js"></script>
+    <script type="text/javascript" src="src/com/sliderCustom/sliderCustom.js"></script>
+    <script type="text/javascript" src="src/com/staticActivity/staticAct.js"></script>
+    <script type="text/javascript" src="src/com/utils/createMenuPanel.js"></script>
+    <script type="text/javascript" src="src/com/pages/layoutManager.js"></script>
+    <script type="text/javascript" src="src/com/utils/createAccordion.js"></script>
+    <script type="text/javascript" src="src/com/animation/animationInterval.js"></script>
+    <script type="text/javascript" src="src/com/pages/interactiveVideo/videoType.js"></script>
+    <script type="text/javascript" src="src/com/utils/imageGroupWithDesc.js"></script>
+    <script type="text/javascript" src="src/com/activity/type/DragAndDrop.js"></script>
+    <script type="text/javascript" src="src/com/pages/createResultPage/createResultPage.js"></script>
+    <script type="text/javascript" src="src/com/activity/type/SoratbleDND.js"></script>
+    <script type="text/javascript" src="src/com/activity/type/InputType.js"></script>
+
+
+</head>
+<body onload="init();">
+
+
+<div id="mcCont" class="cont" style="position: fixed;">
+    <div id = "innerCont" class= "innerContDiv default-skin scrollablePage" style="position:absolute; overflow: hidden;">
+    </div>
+    <div id="popupCont" class="reveal-modal" style="overflow: hidden;">
+        <div id="popupContent" class="default-skin" style="display:inline-block; overflow: hidden; "></div>
+        <!--<a class="close-reveal-modal">&#215;</a>-->
+    </div>
+    <div id="3dpopup" style="visibility: visible; z-index: 16; position: absolute; ">
+    </div>
+</div>
+
+<div class="canvasHolder" id="canvasHold" style="" >
+    <div id="accessMenu" style="position:fixed;"></div>
+    <div id="buttonPanelDiv" style="position:fixed;"></div>
+    <div id="headerLogo" style="position:fixed; "></div>
+</div>
+<div id="menuDiv" style="visibility: hidden; position: fixed;">
+</div>
+<div id="PreLoader" style="z-index: 20">
+    <div class="tabRoundPreloader" style="width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.49)">
+    </div>
+    <div style="position:fixed;left:50%; top: 50%; margin-left: -110px; margin-top: -9.5px; z-index: 17">
+        <img src="src/assets/gui/preloader.gif">
+    </div>
+</div>
+<div id="printDiv" style="visibility: hidden"></div>
+<div id="audioParent" style="visibility: hidden"></div>
+
+
+</body>
+</html>

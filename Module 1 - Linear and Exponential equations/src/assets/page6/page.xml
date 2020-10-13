@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="APPLICATION OF LINEAR FUNCTION" pageRef="src/assets/page6/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0,audio1" idArray="audio0,audio1"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page6/"  pageDis="0.3,0.7" imageSrc="page6Image1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page6/"  pageDis="0.3,0.7" imageSrc="null"><![CDATA[<font color="#009900"><b>EXAMPLE 1:</b></font><br>
+A factory’s total manufacturing costs consists of fixed overhead charges (e.g., rent) of $1600 plus $80 per unit produced. The factory’s total cost (<font face="times_new_romanbold_italic">y</font>) can be represented as a function of the total number of  units (<font face="times_new_romanbold_italic">x</font>) thus:<br>
+<div class="tabRoundRectLeft" style="position:relative;width:95%;padding:10px; background-color:#009900"><font color="#ffffff"><font face="times_new_romanbold_italic">y</font> = 80<font face="times_new_romanbold_italic">x</font> + 1600<br>(here <font face="times_new_romanbold_italic">m</font> = $ 80 per unit of product and <font face="times_new_romanbold_italic">c</font> = $1600, overhead charges)</font><br></div>
+Observe graph to see relationship between costs of production, with respect to per unit produces.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page6/"  pageDis="1" imageSrc="page6Image2.png"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page6/"  pageDis="1" imageSrc="page6Image2.png"><![CDATA[&nbsp;]]></screenText>
+    </index>
+</page>

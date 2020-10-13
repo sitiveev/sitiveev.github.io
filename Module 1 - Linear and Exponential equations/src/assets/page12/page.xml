@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".43,.57">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page12/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q3. In continuation with same scenario, where the relationship between chirps made by crickets and the temperature is T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4 and the rate is given as number of chirps per 14 seconds. What would the temperature be if you hear 150 chirps in 28 seconds? <br><br>
+        <img src = "src/assets/page12/image/page12Image01.png"><br><br></font>]]></screenText>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>29</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>30</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>58</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>60</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>63</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font></p>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+If we heard 150 chirps in 28 seconds then we did hear 75 chirps in 14 seconds. The relationship between temperature (T) and the number of chirps in 14 seconds (C) is given by T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4.<br>
+Therefore,  when C = 75,<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>75</mn><mn>3</mn></mfrac></mfenced></math> + 4 = 25 + 4 = 29 degrees Celsius.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+If we heard 150 chirps in 28 seconds then we did hear 75 chirps in 14 seconds. The relationship between temperature (T) and the number of chirps in 14 seconds (C) is given by T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4.<br>
+Therefore,  when C = 75,<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>75</mn><mn>3</mn></mfrac></mfenced></math> + 4 = 25 + 4 = 29 degrees Celsius.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

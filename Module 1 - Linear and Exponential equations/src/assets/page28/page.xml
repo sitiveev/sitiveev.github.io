@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EVOLUTION THE EXPONENTIAL EQUATION" pageRef="src/assets/page28/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".24,.24">
+        <audioArray array="audio0,audio1,audio2,audio3" idArray="audio1,audio2,audio3,audio4"></audioArray>
+        <screenText color="#333333" fontDesc="14px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="null" imageSrc="page28Image1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="14px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="null" imageSrc="page28Image2.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="14px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="null" imageSrc="page28Image3.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="14px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="null" imageSrc="page28Image4.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="audio1" imageSrc="null"><![CDATA[In continuation with example in our previous page, we get, at <font >100% yearly interest compounded continuously, the total amount earned on $1 for one year is y = e<sup>1</sup> or simply y = e<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="audio2" imageSrc="null"><![CDATA[If the rate of interest is other than 100%, let say, 20% = 0.2 in decimal notation then this situation could be expressed as: y = e<sup>r</sup>, where r = 0.2 or y = e<sup>0.2</sup><br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="audio3" imageSrc="null"><![CDATA[Now let us say, If the time is other than 1 year, say t years, then the formula to use would be: y = e<sup>rt</sup><br>
+Here, r is still the rate of interest and t is the number of years.  If we earn 20% interest compounded continuously for 3 years, that would be y = e<sup>0.2 × 3</sup>  or y = e<sup>0.6</sup><br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page28/" audioId="audio4" imageSrc="null"><![CDATA[Now suppose, our principle amount is not $1 but $P<sub>0</sub>, then the formula to use would be: y = P<sub>0</sub>e<sup>rt</sup>, if P<sub>0</sub> is $5 and r is still the same rate of interest for 3 years then the amount of interest would be y = 5e<sup>(0.2)3</sup><br>]]></screenText>
+    </index>
+</page>

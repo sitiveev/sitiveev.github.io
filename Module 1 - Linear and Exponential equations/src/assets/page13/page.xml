@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".34,.66">
+        <audioArray array="null" idArray="null"></audioArray>
+               <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page13/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q4. What is the slope of the equation represented in the following graph?<br>
+        <img src = "src/assets/page13/image/page13Image01.png"><br>]]></screenText>
+        <options answer="0,1,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>0</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>1</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>3</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>-2</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>-1</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#ff0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option B</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+The slope of a linear function can be obtained from any two points of a line.<br>
+Based on the graph we know that two points on the line are (0, 1) and (-1, 0).<br> Therefore m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><msub><mi>y</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><msub><mi>x</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math><br>
+= <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced><mfenced><mrow><mn>0</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mfenced><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>1</mn></mfrac></mfenced></math><br> = 1<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option B</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+The slope of a linear function can be obtained from any two points of a line.<br>
+Based on the graph we know that two points on the line are (0, 1) and (-1, 0).<br> Therefore m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><msub><mi>y</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><msub><mi>x</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math><br>
+= <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced><mfenced><mrow><mn>0</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mfenced><mrow><mo>-</mo><mn>1</mn></mrow></mfenced></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>1</mn></mfrac></mfenced></math><br> = 1<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

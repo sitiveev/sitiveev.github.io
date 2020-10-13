@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".5,.5">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page16/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q7. Derive an equation showing the relation between two scales used to measure temperature, i.e., Centigrade and Fahrenheit by using the information that the Centigrade scale from 0 to 100 is the same as the Fahrenheit scale from 32 to 212.<br></font>]]></screenText>
+        <options answer="0,0,1,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>5</mn><mn>9</mn></mfrac></math> C + 32</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>5</mn><mn>9</mn></mfrac></math> C + 112</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>9</mn><mn>5</mn></mfrac></math> C + 32</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>5</mn><mn>9</mn></mfrac></math> C + 112</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option C</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+We can plot a graph using the two known points (0, 32) and (100, 212)<br>
+Using the two points, we can determine the slope (m) = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>212</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>32</mn></mrow></mfenced><mfenced><mrow><mn>100</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>9</mn><mn>5</mn></mfrac></math>, and the y-intercept (c) = 32.<br>
+Therefore the equation that represents the temperature in Fahrenheit in terms of Centigrade is : F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>9</mn><mn>5</mn></mfrac></math> C + 32<br><br>
+<img src = "src/assets/page16/image/page16Image01.png"><br><br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option C</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+We can plot a graph using the two known points (0, 32) and (100, 212)<br>
+Using the two points, we can determine the slope (m) = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>212</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>32</mn></mrow></mfenced><mfenced><mrow><mn>100</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>9</mn><mn>5</mn></mfrac></math>, and the y-intercept (c) = 32.<br>
+Therefore the equation that represents the temperature in Fahrenheit in terms of Centigrade is : F = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>9</mn><mn>5</mn></mfrac></math> C + 32<br><br>
+<img src = "src/assets/page16/image/page16Image01.png"><br><br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

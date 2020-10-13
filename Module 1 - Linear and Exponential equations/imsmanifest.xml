@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no"?>
+<manifest   identifier="pipwerksAS3_SCORM2004" version="1.0"
+			xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+			xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+			xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+			xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+			xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+			http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd
+			http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+			http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+			http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd" >
+<metadata>
+	<schema>ADL SCORM</schema>
+	<schemaversion>2004 3rd Edition</schemaversion>
+</metadata>
+<organizations default="org_pipwerks">
+	<organization identifier="org_pipwerks">
+		<title>Population Genetics</title>
+		<item identifier="pipwerksAS3SCORM2004_item01" identifierref="pipwerksAS3SCORM2004_item01_resource">
+			<title>Population Genetics</title>
+		</item>
+		<imsss:sequencing>
+			<imsss:controlMode choiceExit="true" flow="true"/>
+			<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+		</imsss:sequencing>
+	</organization>
+</organizations>
+<resources>
+	<resource identifier="pipwerksAS3SCORM2004_item01_resource" adlcp:scormType="sco" href="index.html" type="webcontent">
+		<file href='content\audio\page01\audio0.mp3'/>
+		<file href='content\audio\page01\audio1.mp3'/>
+		<file href='content\audio\page01\audio2.mp3'/>
+		<file href='content\audio\page01\audio3.mp3'/>
+		<file href='content\audio\page01\audio4.mp3'/>
+		<file href='content\audio\page01\audio5.mp3'/>
+		<file href='content\audio\page01\audio6.mp3'/>
+		<file href='content\audio\page01\audio7.mp3'/>
+		<file href='content\audio\page04\audio0.mp3'/>
+		<file href='content\audio\page04\audio1.mp3'/>
+		<file href='content\audio\page04\audio2.mp3'/>
+		<file href='content\audio\page04\audio3.mp3'/>
+		<file href='content\audio\page04\audio4.mp3'/>
+		<file href='content\audio\page04\audio5.mp3'/>
+		<file href='content\audio\page04\audio6.mp3'/>
+		<file href='content\audio\page04\audio7.mp3'/>
+		<file href='content\audio\page16\audio0.mp3'/>
+		<file href='content\audio\page16\audio1.mp3'/>
+		<file href='content\swf\pages\assessmentEngine.swf'/>
+		<file href='content\swf\pages\PG_page00.swf'/>
+		<file href='content\swf\pages\PG_page01.swf'/>
+		<file href='content\swf\pages\PG_page02.swf'/>
+		<file href='content\swf\pages\PG_page03.swf'/>
+		<file href='content\swf\pages\PG_page04.swf'/>
+		<file href='content\swf\pages\PG_page05.swf'/>
+		<file href='content\swf\pages\PG_page06.swf'/>
+		<file href='content\swf\pages\PG_page07.swf'/>
+		<file href='content\swf\pages\PG_page08.swf'/>
+		<file href='content\swf\pages\PG_page09.swf'/>
+		<file href='content\swf\pages\PG_page10.swf'/>
+		<file href='content\swf\pages\PG_page11.swf'/>
+		<file href='content\swf\pages\PG_page12.swf'/>
+		<file href='content\swf\pages\PG_page13.swf'/>
+		<file href='content\swf\pages\PG_page14.swf'/>
+		<file href='content\swf\pages\PG_page15.swf'/>
+		<file href='content\swf\pages\PG_page16.swf'/>
+		<file href='content\swf\pages\PG_page17.swf'/>
+		<file href='content\swf\pages\PG_page18.swf'/>
+		<file href='content\swf\pages\PG_page19.swf'/>
+		<file href='content\swf\pages\PG_Page20.swf'/>
+		<file href='content\swf\pages\PG_page21.swf'/>
+		<file href='content\swf\pages\PG_Page22.swf'/>
+		<file href='content\swf\pages\PG_Page23.swf'/>
+		<file href='content\swf\pages\PG_Page24.swf'/>
+		<file href='content\swf\pages\PG_Page25.swf'/>
+		<file href='content\swf\pages\PG_page26.swf'/>
+		<file href='content\swf\pages\postAssessment.swf'/>
+		<file href='content\swf\pages\preAssessment.swf'/>
+		<file href='content\xml\PG_page00.xml'/>
+		<file href='content\xml\PG_page01.xml'/>
+		<file href='content\xml\PG_page02.xml'/>
+		<file href='content\xml\PG_page03.xml'/>
+		<file href='content\xml\PG_page04.xml'/>
+		<file href='content\xml\PG_page05.xml'/>
+		<file href='content\xml\PG_page06.xml'/>
+		<file href='content\xml\PG_page07.xml'/>
+		<file href='content\xml\PG_page08.xml'/>
+		<file href='content\xml\PG_page09.xml'/>
+		<file href='content\xml\PG_page10.xml'/>
+		<file href='content\xml\PG_page11.xml'/>
+		<file href='content\xml\PG_page12.xml'/>
+		<file href='content\xml\PG_page13.xml'/>
+		<file href='content\xml\PG_page14.xml'/>
+		<file href='content\xml\PG_page15.xml'/>
+		<file href='content\xml\PG_page16.xml'/>
+		<file href='content\xml\PG_page17.xml'/>
+		<file href='content\xml\PG_page18.xml'/>
+		<file href='content\xml\PG_page19.xml'/>
+		<file href='content\xml\PG_page20.xml'/>
+		<file href='content\xml\PG_page21.xml'/>
+		<file href='content\xml\PG_page22.xml'/>
+		<file href='content\xml\PG_page22n.xml'/>
+		<file href='content\xml\PG_page23.xml'/>
+		<file href='content\xml\PG_page24.xml'/>
+		<file href='content\xml\PG_page25.xml'/>
+		<file href='content\xml\PG_page26.xml'/>
+		<file href='content\xml\postAssessment.xml'/>
+		<file href='content\xml\preAssessment.xml'/>
+		<file href='content\xml\shell.xml'/>
+		<file href='MainPlayer.swf'/>
+
+	</resource>
+</resources>
+</manifest>

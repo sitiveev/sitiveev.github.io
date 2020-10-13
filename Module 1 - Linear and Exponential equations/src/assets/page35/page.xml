@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".35,.65">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page35/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q11. A bacterial culture follows the growth equation y = 3(1.9)<sup>x</sup> where y is the number of bacteria after x seconds. Which of the following graphs represents the growth curve? What is the number of bacteria at the start?  What is the rate constant?<br>
+        <img src ="src/assets/page35/image/page35Image01.png"></font>]]></screenText>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph a, y = 3 at time x = 0, k = 1 s<sup>-1</sup> </font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph b, y = 2 at time x = 0, k = -1 s<sup>-1</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph c, y = 3 at time x = 0, k = 1 s<sup>-1</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph d, y = -3 at time x = 0, k = -1 s<sup>-1</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph c, y = 3 at time x = 0, k = 2 s<sup>-1</sup></font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+At x = 0, y = 3(1.9)<sup>x</sup> => y = 3(1.9)<sup>0</sup> = 3. The graph A also shows this. The coefficient of x in the equation is 1. So k = 1.<br><br>
+<img src ="src/assets/page35/image/page35Image5.png"><br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+At x = 0, y = 3(1.9)<sup>x</sup> => y = 3(1.9)<sup>0</sup> = 3. The graph A also shows this. The coefficient of x in the equation is 1. So k = 1.
+<br><br><img src ="src/assets/page35/image/page35Image01.png"><br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

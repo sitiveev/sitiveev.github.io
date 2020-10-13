@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".43,.57">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page11/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q2. Now that you have derive the relationship between chirps made by crickets and the temperature as a linear function T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4 based on the table shown, how many chirps would you expect to hear if the temperature was 36 degrees?<br><br>
+        <img src = "src/assets/page11/image/page11Image01.png"><br><br></font>]]></screenText>
+        <options answer="0,0,0,1,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>63</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>72</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>84</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>96</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>108</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option D</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+Therefore when the temperature is 36 degrees, the relationship with the number of chirps can be expressed as: 36 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4<br>
+Solving for C:<br>
+If 36 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4, then<br>
+36 - 4 = 32 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math><br>
+And C = 32 × 3 = 96 chirps per 14 seconds.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct</font><br><font face="calibriregular" color="#006699"><p>The Answer is: Option D</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+Therefore when the temperature is 36 degrees, the relationship with the number of chirps can be expressed as: 36 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4<br>
+Solving for C:<br>
+If 36 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4, then<br>
+36 - 4 = 32 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math><br>
+And C = 32 × 3 = 96 chirps per 14 seconds.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

@@ -1,0 +1,405 @@
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#volumcontroller {
+    height: 35px;
+    width: 90px;
+    position: relative;
+    display: inline-block;
+    margin-left:-72px;top:-5px;
+}
+#volumcontroller div{
+    height:40px;
+}
+.volumecontrollerbar{
+    border-left:1px solid #222;
+    float:right;
+    width:3px;
+    -webkit-border-top-left-radius: 3px;
+    -moz-border-radius-topleft: 3px;
+    border-top-left-radius: 3px;
+    background-color: #4c4c4c;
+    cursor:pointer;
+}
+.volumecontrollerbar:hover{
+    background-color:#e5d600 !important;
+}
+
+#popupPanel-popup {
+    right: 0 !important;
+    left: auto !important;
+}
+#popupPanel {
+    width: 200px;
+    border: 1px solid #000;
+    border-right: none;
+    background: rgba(0,0,0,.5);
+    margin: -1px 0;
+
+
+}
+.DivImageCont {
+    width:98%;
+    height:90%;
+    position:relative;
+    display:inline-block;
+    overflow:hidden;
+}
+
+.DivImageCont > img {
+    position:relative;
+    min-height:100%;
+    display:block;
+    -webkit-transform: translate(-50%, -50%);
+    min-width:100%;
+}
+
+table,tr,td
+{
+
+    border:1px solid #ffffff;
+    border-collapse:collapse;
+}
+
+#slider-range{
+    background-color: rgba(187,145,19,0.2);
+    background-image: none;
+}
+
+#popupPanel .ui-btn {
+    margin: 2em 15px;
+}
+body, html
+{
+    background-color: #ffffff;
+    margin: 0%;
+    max-width: 1024px;
+    overflow: hidden;
+}
+.relativeInlineMCSS
+{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.relativeInline
+{
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+.popupHolder
+{
+	margin:auto;
+}
+
+.hrefLink
+{
+	color:#FECA40;
+	text-decoration:underline;
+	cursor: help;
+}
+
+#feedback { font-size: 1.4em; }
+#selectable .ui-selecting { background: #FECA40; }
+#selectable .ui-selected { background: #F39814; color: white; }
+#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#selectable selectable { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+::-webkit-scrollbar 
+{ 
+	width: 12px; 
+} 
+/* Track */ 
+::-webkit-scrollbar-track 
+{ 
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+	-webkit-border-radius: 10px; 
+	border-radius: 10px; 
+} 
+/* Handle */ 
+::-webkit-scrollbar-thumb { -webkit-border-radius: 10px; border-radius: 10px; background: rgba(255,0,0,0.8); -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); } 
+::-webkit-scrollbar-thumb:window-inactive { background: rgba(255,0,0,0.4); }
+
+.innerContDiv
+{
+	width:50%;
+	overflow:auto;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+}
+
+.selectableNone
+{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.closeButton
+{
+
+    font-size: 22px;
+    position: absolute;
+    color: #000000;
+    text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.closeButtonWhite
+{
+    font-size: 22px;
+    position: absolute;
+    color: #ffffff;
+    text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+    font-weight: bold;
+    cursor: pointer;
+}
+.tabRoundRect 
+{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+   	border-radius:5px;
+	position:absolute;
+	text-align:center;
+	text-justify:auto;
+
+}
+
+.tabRoundRectLeft
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-align:left;
+    text-justify:auto;
+
+}
+
+.gradGray {
+    background: -webkit-linear-gradient(top, #afafaf , #959595, #888888); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom, #afafaf , #959595, #888888); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom, #afafaf , #959595, #888888); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom, #afafaf , #959595, #888888); /* Standard syntax (must be last) */
+}
+
+.tabRoundRectBorder
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    border: dotted;
+    -webkit-border:dotted;
+    -moz-border:dotted;
+    border-color: #07141e;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+}
+
+.tabRoundRectTransit
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    box-shadow: inset 0px 0px 5px #9c9c9c;
+    -webkit-transition: width 2s ease, height 2s ease;
+    -moz-transition: width 2s ease, height 2s ease;
+    -o-transition: width 2s ease, height 2s ease;
+    -ms-transition: width 2s ease, height 2s ease;
+    transition: width 2s ease, height 2s ease;
+}
+
+.tabRoundRectBoxShadow
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    box-shadow: 0px 0px 8px 1px #9c9c9c
+}
+
+
+
+.tabRoundRectTransitTwoSidedUp
+{
+    -webkit-border-radius:0px     0px      4px           4px;
+    -moz-border-radius:0px     0px      4px           4px;
+    border-radius:0px     0px      4px           4px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    padding: 0px;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease;
+
+}
+
+.tabRoundRectTransitTwoSidedDown
+{
+    -webkit-border-radius:10px     10px      0px           0px;
+    -moz-border-radius:10px     10px      0px           0px;
+    border-radius:10px     10px      0px           0px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    padding: 0px;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease;
+}
+
+.tabRoundRectTransitTenPixel
+{
+    -webkit-border-radius:10px     10px      10px           10px;
+    -moz-border-radius:10px     10px      10px           10px;
+    border-radius:10px     10px      10px           10px;
+
+    text-align:left;
+    text-justify:auto;
+    padding: 0px;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease;
+}
+
+.tabRoundRectTransitTwoSidedLeft
+{
+    -webkit-border-radius:0px     4px      4px           0px;
+    -moz-border-radius:0px     4px      4px           0px;
+    border-radius:0px     4px      4px           0px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    padding: 1px;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease;
+}
+
+.tabRoundRectTransitTwoSidedRight
+{
+    -webkit-border-radius:4px     0px      0px           4px;
+    -moz-border-radius:4px     0px      0px           4px;
+    border-radius:4px     0px      0px           4px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+    padding: 1px;
+    -webkit-transition: all 3s ease;
+    -moz-transition: all 3s ease;
+    -o-transition: all 3s ease;
+    -ms-transition: all 3s ease;
+    transition: all 3s ease;
+}
+
+.tabRoundPreloader
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+}
+
+ul
+{
+    list-style-type:lower-roman;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 0px;
+}
+ul li
+{
+    padding-left:0px;
+}
+
+.tabRoundRectInner
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-justify:auto;
+    padding: 10px;
+
+}
+
+.tabRoundRectQuestion
+{
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:5px;
+    position:absolute;
+    text-align:center;
+    margin: 15px;
+    text-justify:auto;
+}
+
+.tabRoundRectZero
+{
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    border-radius:0px;
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+}
+
+
+.questionPopup
+{
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    border-radius:0px;
+    background-color: rgba('0,0,0,0.5');
+    position:absolute;
+    text-align:center;
+    text-justify:auto;
+}
+
+.tabRoundRectZeroLeft
+{
+    position:absolute;
+    text-align:left;
+    text-justify:auto;
+
+}
+
+.crossButton {
+    font-size: 22px;
+
+    position: absolute;
+
+    color: #ffffff;
+    text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+    font-weight: bold;
+    cursor: pointer;
+}

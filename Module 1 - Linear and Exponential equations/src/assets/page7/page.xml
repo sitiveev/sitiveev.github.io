@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio"  head="APPLICATION OF LINEAR FUNCTION" pageRef="src/assets/page7/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page7/"  pageDis="0.3,0.7" imageSrc="page7Image1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page7/"  pageDis="0.3,0.7" imageSrc="null"><![CDATA[<font color="#009900"><b>EXAMPLE 2:</b></font><br>
+The initial cost of a kilogram of apples was $1.50, but the cost of a kilogram of apples has been increasing at 5 cents a year. The total cost (y) (in dollars) of a kilogram of apples over time can be represented as a function of the total number of years (x) since the initial cost thus:<br>
+<div class="tabRoundRectLeft" style="position:relative;width:95%;padding:10px; background-color:#009900"><font color="#ffffff"><font face="times_new_romanbold_italic">y</font> = 1.50 + 0.05<font face="times_new_romanbold_italic">x</font><br>(here <font face="times_new_romanbold_italic">m</font> = $0.05 of increase per kg and <font face="times_new_romanbold_italic">c</font> = $1.50 per kg, initial cost)</font><br></div>
+Observe graph to see relationship between costs of production, with respect to per unit produces.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page7/"  pageDis="1" imageSrc="page7Image2.png"><![CDATA[]]></screenText>
+
+    </index>
+</page>

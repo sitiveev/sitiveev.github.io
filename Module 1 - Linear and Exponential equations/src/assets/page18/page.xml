@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="INTRODUCTION – EXPONENTIAL EQUATION" pageRef="src/assets/page18/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".36,.64">
+        <audioArray array="audio0,ClickNEXT2Continue" idArray="audioHead,ClickNEXT2Continue"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audioHead" posX="15" posY="45" size="375" pageRef="src/assets/page18/"  imageSrc="page18image.png"><![CDATA[Exponential functions are another class of mathematical equations. In addition to living organisms, many socio-economic phenomena can also be expressed as exponential equations.<br>
+For example, our savings in the bank grows exponentially through the mechanism of compound interest.<br><br>
+
+Exponential equations describe not only the macro-behaviour of many phenomena, but also many cellular and molecular events.  A decrease in the number of bacteria during an antibiotic treatment is an example of exponential decay.<br><br>
+
+Exponential equations can be useful for predicting future events which allow us to anticipate and manage events for the benefit of society or the environment. Exponential equations have different forms depending on the nature of the phenomenon we seek to describe.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="ClickNEXT2Continue" posX="15" posY="45" size="375" pageRef="src/assets/page1/"  imageSrc="null"><![CDATA[<b>CLICK NEXT TO CONTINUE</b>]]></screenText>
+    </index>
+</page>

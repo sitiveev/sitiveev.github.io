@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".33,.67">
+        <audioArray array="null" idArray="audio0,audio1,audio2"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page36/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q12. An exponential equation has the form y = Ab<sup>x</sup> and its curve passes through (1, 6) and (3, 8.64). Find the value of ‘A’ and ‘b’ and then write the equation using the values of A and b. <br></font>]]></screenText>
+        <options answer="0,1,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>A = 1, b = 6,  y = 5(2)<sup>x</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>A = 5, b = 1.2,  y = 5(1.2)<sup>x</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>A = 1.2, b = 5,  y = 1.2(5)<sup>x</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>A = 5, b = 1.44,  y = 5(1.44)<sup>x</sup></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>A = 3, b = 6.4,  y = 3(6.4)<sup>x</sup></font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option B</p><p><font face="calibriregular"><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+Substituting (x, y) = (1, 6) in the equation y = Ab<sup>x</sup> yields 6 = Ab<br>
+Substituting (x, y) = (3, 8.64) in the equation y = Ab<sup>x</sup> yields 8.64 = Ab<sup>3</sup><br>
+Now divide the second equation above by the first, and cancel the A.  1.44 = b<sup>2</sup><br>
+Now solve the equation you just obtained for b. b = 1.2<br>
+Next, substitute your value of b into either the first or second equation to obtain A.<br>
+A = 5<br>
+y = 5(1.2)<sup>x</sup><br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option B</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+Substituting (x, y) = (1, 6) in the equation y = Ab<sup>x</sup> yields 6 = Ab<br>
+Substituting (x, y) = (3, 8.64) in the equation y = Ab<sup>x</sup> yields 8.64 = Ab<sup>3</sup><br>
+Now divide the second equation above by the first, and cancel the A.  1.44 = b<sup>2</sup><br>
+Now solve the equation you just obtained for b. b = 1.2<br>
+Next, substitute your value of b into either the first or second equation to obtain A.<br>
+A = 5<br>
+y = 5(1.2)<sup>x</sup><br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="DOUBLING, A SPECIAL CASE..." pageRef="src/assets/page25/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" pageDis=".67,.33" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="null"><![CDATA[<div class="tabRoundRectLeft" style="position:relative; width:100%; padding-bottom:10px;"><font color="#006699"><i>Doubling is a special case of the general exponential equation:<br></font></i></div> ]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" pageDis="0.495,0.5" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="null"><![CDATA[During the log phase of a bacterial culture, the number of bacteria increases by 100% every minute.<br> <b>Write an exponential growth equation during the log phase of this culture.</b>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" pageDis="0.495,0.5" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="null"><![CDATA[During the stationary phase of a bacterial culture, the number decreases by 50% every hour when a certain dose of antibiotic is added to the culture. <br><b>Write an exponential equation to represent the decrease in bacterial count with time.</b>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" pageDis="0.5,0.5" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="page25Image1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" pageDis="0.5,0.5" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="page25Image2.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" pageDis="0.495,.5" posY="45" size="375" pageRef="src/assets/page25/" audioId="null" imageSrc="null"><![CDATA[
+<font color="#009900">Answer:<br></font>
+Here, 100% = 1.0. So the factor by which the number increases = <font face="times_new_romanbold_italic">a</font> = 1 + 1 = 2 every minute.  Thus, the general exponential equation <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub><font face="times_new_romanbold_italic">a</font><sup><font face="times_new_romanbold_italic">x</font></sup> becomes <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub>(2)<sup><font face="times_new_romanbold_italic">x</font></sup>, where <font face="times_new_romanbold_italic">x</font> is time in minutes.]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" pageDis="0.495,.5" posY="45" size="375" pageRef="src/assets/page25/" audioId="audio0" imageSrc="null"><![CDATA[<font color="#009900">Answer:</font><br>
+Here 50% = 0.5. So the factor by which the number decreases = <font face="times_new_romanbold_italic">a</font> = 1 - 0.5 = 0.5 every hour.<br>
+Thus, the general exponential equation <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub><font face="times_new_romanbold_italic">a<sup>x</font></sup> becomes <font face="times_new_romanbold_italic">y = N<sub>0</sub></font>(0.5)<font face="times_new_romanbold_italic"><sup>x</sup></font>, where <font face="times_new_romanbold_italic">x</font> is time in hours.<br>]]></screenText>
+
+    </index>
+</page>

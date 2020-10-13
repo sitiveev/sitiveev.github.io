@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="GENERALISATION OF EXPONENTIAL EQUATION" pageRef="src/assets/page29/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".495,.5">
+        <audioArray array="audio0,audio1" idArray="audio0,audio1"></audioArray>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page29/" audioId="audio0" imageSrc="null"><![CDATA[<font color="#006699">Let us illustrate this with a situation:</font><br>
+          You lend someone <font face="calibribold_italic" color="#000000">$1</font> who agrees to pay you back with <font face="calibribold_italic" color="#000000">100% interest rate</font> after one year, <font face="calibribold_italic" color="#000000">with the interest compounded half yearly.</font><br>
+           <font face="calibribold_italic" color="#000000">This means:</font> after 6 months, the total becomes <font face="calibribold" color="#000000">($1 + $0.50)</font> which is the principal for the next 6 months.<br>
+            Therefore the interest for the next half year is <font face="calibribold" color="#000000">0.50($1 + $0.50)</font>, and the total at the end of the year is<br>
+             <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;width:94%;background-color:#009900;color:#ffffff; padding:10px;">= (<font face="calibribold_italic">Principal after first half year</font>) + (<font face="calibribold_italic">interest for the second half year</font>)<br>
+              = ($1 + $0.50) + 0.50($1 + $0.50)<br>
+              = (1 + 0.50)($1 + $0.50)<br>
+              = (1 + 0.50)<sup>2</sup><br>
+              </div>
+
+               The important point to note here: <font face="calibribold_italic" color="#009900">how did we get the value 0.50</font>?<br>
+Answer:  The <font face="calibribold_italic" color="#000000">interest rate is 100% per year</font>, <br><br>
+we compounded <font face="calibribold_italic" color="#000000">half-yearly</font>, i.e., <font face="calibribold" color="#000000">2-times; so <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>100</mn><mo>%</mo></mrow><mn>2</mn></mfrac></math> = 50% (= <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> = 0.50)</font> is <font face="calibribold" color="#000000">the interest rate half yearly.</font><br><br>
+  Let us extend the above situation to compound the interest quarterly <font face="calibribold" color="#000000">(= 4 time a year)</font>.<br>
+  Then the interest for every quarter is <font face="calibribold_italic" color="#000000"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>100</mn><mo>%</mo></mrow><mn>4</mn></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>4</mn></mfrac></math></font> in fraction.<br>
+   Then the total amount after one year will be <font face="calibribold" color="#000000">(1 + 0.25)<sup>4</sup> or (1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>4</mn></mfrac></math>)<sup>4</sup></font>.<br> ]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page29/" audioId="audio1" imageSrc="null"><![CDATA[<font color="#006699">Now we will generalize our analysis:<br></font>
+1. <font color="#009900">(1 + 0.25)<sup>4</sup> :</font> This expression can be generalized as <font face="calibribold" color="#009900">y = (1 + r)<sup>n</sup></font>  where <font face="times_new_romanbold_italic">n</font> is the <font face="calibribold" color="#000000">number of  intervals</font> for which the interest is compounded (in this example, quarterly = <font face="calibribold" color="#000000">4 intervals</font>) and <font face="times_new_romanbold_italic">r</font> is rate for each interval ( in this example, <font face="calibribold" color="#000000">100% yearly = 25% quarterly</font>) and <font face="times_new_romanbold_italic">y</font> is the total amount.<br><br>
+
+2. The equivalent expression <font color="#009900">(1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>4</mn></mfrac></math>)<sup>4</sup></font> can be generalized as <font face="calibribold" color="#009900">y = (1+ <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>n</mn></mfrac></math>)<sup>n</sup></font>  where <font face="times_new_romanbold_italic">n</font> is the <font face="calibribold" color="#000000">number of  intervals</font> in one year for which the interest is compounded, and the <font face="calibribold" color="#000000">numerator 1</font> in <font face="calibribold" color="#000000"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>n</mn></mfrac></math></font> is <font face="calibribold" color="#000000">100% (= 1)</font> yearly interest.<br><br>
+
+3. <font face="calibribold" color="#009900">y = (1+ <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>r</mn><mn>n</mn></mfrac></math>)<sup>n</sup></font> where  <font face="times_new_romanbold_italic">r</font> remains the annual rate of interest and  <font face="times_new_romanbold_italic">n</font> is the compounding interval in a year. <br>
+ If the interest were <font face="calibribold" color="#000000">40% annually</font> then <font face="times_new_romanbold_italic">r</font> would equal 0.4 and if <font face="times_new_romanbold_italic">n</font> is equal to 12 (compounded monthly), then amount will be:<br>
+  <font face="calibribold" color="#009900">y = (1+ <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>r</mn><mn>n</mn></mfrac></math>)<sup>n</sup></font> for one year i.e. <font face="calibribold" color="#009900">y = (1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>4</mn></mrow><mn>12</mn></mfrac></math>)<sup>12</sup></font>.<br>
+  For t years, the amount will be <font face="calibribold" color="#009900">y = (1+ <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>r</mn><mn>n</mn></mfrac></math>)<sup>nt</sup></font>  i.e. <font face="calibribold" color="#009900">y = (1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>4</mn></mrow><mn>12</mn></mfrac></math>)<sup>12t</sup></font><br><br>
+
+4. Let us calculate interest compounded annually.<br>  For example, $1 invested at 20% annual interest compounded annually after 3 years could be expressed as,<br>
+<font face="calibribold" color="#009900">=> y = (1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>r</mn><mn>n</mn></mfrac></math>)<sup>nt</sup> => y = (1 + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>2</mn></mrow><mn>1</mn></mfrac></math>)<sup>1x3</sup><br>
+ => y = (1  + 0.2)<sup>3</sup>=> y = (1 + r)<sup>t</sup>.<br></font>
+   Similarly, we can consider cases of depreciation where 20% of the value is lost each year.<br>
+That would be expressed as:<br>
+ <font face="calibribold" color="#009900">=> y = (1- r)<sup>t</sup> or y = (1- 0.2)<sup>t</sup><br></font>]]></screenText>
+    </index>
+</page>

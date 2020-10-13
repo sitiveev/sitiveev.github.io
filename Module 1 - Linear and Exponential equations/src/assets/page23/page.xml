@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHANGING THE BASE" pageRef="src/assets/page23/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0,audio1" idArray="audio0,audio1"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page23/" audioId="audio0" imageSrc="page23Image1.png"><![CDATA[We may not be interested only in doubling. Perhaps we may want to know the time when the amount (or the number) of the bacteria increases, or even decreases by a certain fraction every unit time.  All these cases can be analysed by using the general equation as shown below:<br>
+        <div class="tabRoundRect" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;font-size:3em;width:90%;background-color:#009900;color:#ffffff"><font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N<sub>0</sub>a<sup>x</font></sup><br></div>
+        <font face="calibriitalic" color="#009900">Here a > 1 describes increase, and 0 < a < 1 describes decrease as time goes; and the value of 'a' is the factor by which N<sub>0</sub> increases or decreases per unit time.</font><br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page23/" audioId="audio1" imageSrc="null"><![CDATA[]]></screenText>
+    </index>
+</page>

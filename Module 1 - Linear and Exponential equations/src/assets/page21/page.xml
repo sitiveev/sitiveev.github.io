@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="A PRACTICAL EXAMPLE..." pageRef="src/assets/page21/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page21/"  imageSrc="culture.png"><![CDATA[Example 1:  A culture of bacteria has the initial (at x = 0) mass of 1g, and is doubling every hour. How long will it take to reach 2048g?<br><br>
+<div class="tabRoundRectTransitTwoSidedDown" style="width:98%; padding:2px; position:relative; display:inline-block; background-color:#CCCCCC; border:1px #CCCCCC solid;">Answer</div>
+<div class="tabRoundRectTransitTwoSidedUp" style="width:98%; padding:2px; position:relative; display:inline-block; background-color:#ffffff; border:1px #CCCCCC solid;">
+<div class="tabRoundRectLeft" style="width:60%; position:relative; padding-top:4px; padding-bottom:4px; display:inline-block; background-color:#ffffff;">
+Given y = 2048g, x=?<br>
+y = 2<sup>x</sup><br>
+=>2048 = 2<sup>x</sup><br>
+=>2<sup>11</sup>  = 2<sup>x</sup>, so x = 11 hours.</div></div><br><br>
+Example 2: A culture of bacteria has the initial (at x = 0) mass of 1g, and is doubling every hour. How long will it take to reach 3g?<br><br>
+<div class="tabRoundRectTransitTwoSidedDown" style="width:98%; padding:2px;  position:relative; display:inline-block; background-color:#CCCCCC; border:1px #CCCCCC solid;">Answer</div>
+<div class="tabRoundRectTransitTwoSidedUp" style="width:98%; padding:2px; position:relative; display:inline-block; background-color:#ffffff; border:1px #CCCCCC solid;">
+<div class="tabRoundRectLeft" style="width:60%; position:relative; padding-top:4px; padding-bottom:4px; display:inline-block; background-color:#ffffff;">Given y = 3g, x =?   That is,   2<sup>x</sup> = 3 , x = ?<br>
+As 3 cannot be expressed easily as a simple power of 2, you have to use a mathematical tool called a logarithm to solve for x:<br>
+Take log on both sides:<br>
+log2<sup>x</sup> = log3<br>
+=> xlog2 = log3<br>
+=> x = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>log</mi><mn>3</mn></mrow><mrow><mi>log</mi><mn>2</mn></mrow></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mn>0</mn><mo>.</mo><mn>4771</mn></mrow><mrow><mn>0</mn><mo>.</mo><mn>3010</mn></mrow></mfrac></math> = 1.58h.<br>
+[The values of log2 and log3 can be obtained from log table or calculator.]<br></div></div>]]></screenText>
+    </index>
+</page>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" pageRef="src/assets/page33/" headColor="#006699" fontDesc="18px calibribold" pageDis=".35,.65">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page33/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q9. A bacterial culture follows the growth equation y = 4<sup>x</sup> where y is the number of bacteria after x seconds. Which of the following graphs represents the exponential function? What is the doubling time? What is the rate constant k?<br>
+        <img src ="src/assets/page33/image/page33Image01.png"><br></font>]]></screenText>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph d, doubling time 0.5, k = 2</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph c, doubling time 4, k = 1</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph d, doubling time 16, k = 2</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph b, doubling time 14, k = 1</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>graph d, doubling time 4, k = unknown</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option A</p><p><font face="calibriregular"><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+At x = 0 s, y = 4<sup>0</sup> = 1 meaning you start with one bacterium. At x = 1, y = 4<sup>1</sup> = 4 meaning this bacterium doubles every 0.5 s. So, doubling time 0.5 s. So k = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mrow><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfrac></math> = 2 s<sup>-1</sup>. This makes sense, because the equation can be written as y = 4<sup>X</sup> = (2<sup>2</sup>)<sup>x</sup> = 2<sup>2x</sup>. Thus k = 2 by comparing with y = 2<sup>kx</sup>. From, this consideration, we have seen the graph passes through (0, 1) and (1, 4). Among the given four graphs, only graph d passes through these two points.<br><br><img src ="src/assets/page33/image/page33Image5.png"><br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+At x = 0 s, y = 4<sup>0</sup> = 1 meaning you start with one bacterium. At x = 1, y = 4<sup>1</sup> = 4 meaning this bacterium doubles every 0.5 s. So, doubling time 0.5 s. So k = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mrow><mn>0</mn><mo>.</mo><mn>5</mn></mrow></mfrac></math> = 2 s<sup>-1</sup>. This makes sense, because the equation can be written as y = 4<sup>X</sup> = (2<sup>2</sup>)<sup>x</sup> = 2<sup>2x</sup>. Thus k = 2 by comparing with y = 2<sup>kx</sup>. From, this consideration, we have seen the graph passes through (0, 1) and (1, 4). Among the given four graphs, only graph d passes through these two points.<br><br><img src ="src/assets/page33/image/page33Image5.png"><br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

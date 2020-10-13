@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="BASIC STRUCTURE OF LINE" pageRef="src/assets/page3/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0" idArray="audioHead"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page3/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="page3Image.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audioHead" posX="15" posY="45" size="375" pageRef="src/assets/page3/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="null"><![CDATA[A line can be defined as:<br>
+<font size="6px" color="#009900"><font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">f</font>(<font face="times_new_romanbold_italic">x</font>) = <font face="times_new_romanbold_italic">mx </font>+ <font face="times_new_romanbold_italic">c</font><br></font>
+<i>where:</i><br>
+<font color="#009900"><font face="times_new_romanbold_italic">y</font> = value of a point on the line on the <font face="times_new_romanbold_italic">y</font>-axis<br></font>
+<font color="#009900"><font face="times_new_romanbold_italic">x</font> = value of a point on the line on the <font face="times_new_romanbold_italic">x</font>-axis<br></font>
+<font color="#009900"><font face="times_new_romanbold_italic">m</font> = slope of the line<br></font>
+<font color="#009900"><font face="times_new_romanbold_italic">c = y</font> − intercept of the line<br><br></font>
+<div class="tabRoundRectLeft" style="position:relative; width:96%; background-color:#009900; padding:10px; padding-bottom:10px;"><font color="#ffffff">The next few slides will be defining these terms in more detail and we will be looking at the different types of lines.</font></div><br>]]></screenText>
+    </index>
+</page>

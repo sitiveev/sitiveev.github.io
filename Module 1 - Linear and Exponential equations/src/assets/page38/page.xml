@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".33,.67">
+        <audioArray array="null" idArray="audio0,audio1,audio2"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page38/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<p><font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q14. In the equation, y = N<sub>0</sub>2<sup>-x</sup>, if the value of x is changed from 0 to 3, y changes from… <br></font></p>]]></screenText>
+        <options answer="0,0,0,0,1">
+            <option><![CDATA[<font face="calibribold" size='3.1'>0 to <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>9</mn></mfrac></math></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>1 to <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>9</mn></mfrac></math></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>1 to <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>8</mn></mfrac></math></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>N<sub>0</sub> to <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>9</mn></mfrac></math></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>N<sub>0</sub> to <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>8</mn></mfrac></math></font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000"><p>Not Quite!</font></p>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option E</p><p><font face="calibriregular"><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+The equation can be written as y = N<sub>0</sub>2<sup>-x</sup> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><msup><mn>2</mn><mi>x</mi></msup></mfrac></math>. When x = 0, y = N<sub>0</sub>, and when x = 3, y = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>8</mn></mfrac></math>.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600"><p>That's Correct</font></p><font face="calibriregular" color="#006699"><p>The Answer is: Option E</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+The equation can be written as y = N<sub>0</sub>2<sup>-x</sup> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><msup><mn>2</mn><mi>x</mi></msup></mfrac></math>. When x = 0, y = N<sub>0</sub>, and when x = 3, y = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>8</mn></mfrac></math>.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

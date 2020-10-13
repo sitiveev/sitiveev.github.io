@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="APPLICATION OF LINEAR FUNCTION" pageRef="src/assets/page7/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0.5,0.5">
+        <audioArray array="audio0" idArray="audioHead"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audioHead" posX="15" posY="45" size="375" pageRef="src/assets/page8/"  imageSrc="page8Image1.png"><![CDATA[<font color="#009900"><b>EXAMPLE 3:</b></font><br>
+        If you have no fixed or original costs then the linear equation reduces to something simpler. For example, if one cup of lemonade costs $0.50 then the total cost (<font face="times_new_romanbold_italic">y</font>) (in dollars) of lemonade can be shown as a function of the total cups (<font face="times_new_romanbold_italic">x</font>) of lemonade thus: <br><br>
+         <div class="tabRoundRect" style="position:relative;width:95%;padding:10px; background-color:#009900"><font color="#ffffff"><font size="6px"><font face="times_new_romanbold_italic">y</font> = 0.5<font face="times_new_romanbold_italic">x</font></font> (<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> structure)</font></div><br>]]></screenText>
+
+    </index>
+</page>

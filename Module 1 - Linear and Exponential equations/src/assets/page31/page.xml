@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EXPONENTIAL DECAY" pageRef="src/assets/page31/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".3,.68">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" pageRef="src/assets/page31/" audioId="audio0" imageSrc="page31Image1.png"><![CDATA[<font color="#006699">Concept of <b>time constant</b> and <b>rate constant</b><br></font>
+
+        <div class="tabRoundRect" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;font-size:2em;width:90%;background-color:#009900;color:#ffffff"><font face="times_new_romanbold_italic">y = N<sub>0</sub>2<sup>-x</sup>, x > 0<br></font></div>
+
+
+         In this case, as <font face="times_new_romanbold_italic">x</font> is increased from <font face="calibribold">0 to 1 to 2 to 3</font> and so on, the value of y is decreased from <font face="times_new_romanbold_italic">N<sub>0</sub></font> to <math><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>2</mn></mfrac></math> to <math><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>4</mn></mfrac></math> to <math><mfrac><msub><mi>N</mi><mn>0</mn></msub><mn>8</mn></mfrac></math> and so on.<br><br>
+          The corresponding plot of <font face="times_new_romanbold_italic">y</font> vs <font face="times_new_romanbold_italic">x</font> shows a decay of <font face="times_new_romanbold_italic">N<sub>0</sub></font> which becomes half of its value in every hour.<br>
+<br>]]></screenText>
+    </index>
+</page>

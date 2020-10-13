@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".5,.5">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page15/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q6. Unlike the natural environment, within the controlled laboratory setting, a constant rate of growth for a limited period of time can be seen for larvae of certain insects. These limited periods of constant rate of growth is referred to as the linear portions of the larval growth curve. Assuming an initial larval weight of 8 grams and weight at ending time point (hour (h)= 48) equal to 12 grams which of the following linear equations represent change in larval weight (w) across the linear growth time period? </font>]]></screenText>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>w = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>12</mn></mfrac></math>h + 8</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>w =  h + 8</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>w = 8h + 12</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>w = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>8</mn></mfrac></math>h + 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>w = 3h + 8</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+We know that this is a linear function, and therefore will be of the form<br>
+w = mh + c.<br>
+We have to determine the values of m and c.<br>
+We know that when h = 0, w = 8 (the initial weight at zero hours is 8 grams). Inserting these values in the model we get c = 8.<br>
+To determine the value of m we need two points on the line.<br>
+We know that when h = 48, w = 12.<br>
+Therefore the two time points we know are (0, 8) and (48, 12).<br>
+Based on this we can say:<br>  m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>12</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>8</mn></mrow></mfenced><mfenced><mrow><mn>48</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>48</mn></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>12</mn></mfrac></math><br>
+Therefore the final equation is w = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>12</mn></mfrac></math>h + 8<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option A</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+We know that this is a linear function, and therefore will be of the form<br>
+w = mh + c.<br>
+We have to determine the values of m and c.<br>
+We know that when h = 0, w = 8 (the initial weight at zero hours is 8 grams). Inserting these values in the model we get c = 8.<br>
+To determine the value of m we need two points on the line.<br>
+We know that when h = 48, w = 12.<br>
+Therefore the two time points we know are (0, 8) and (48, 12).<br>
+Based on this we can say:<br>  m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>12</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>8</mn></mrow></mfenced><mfenced><mrow><mn>48</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>0</mn></mrow></mfenced></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>48</mn></mfrac></math><br> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>12</mn></mfrac></math><br>
+Therefore the final equation is w = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>12</mn></mfrac></math>h + 8<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

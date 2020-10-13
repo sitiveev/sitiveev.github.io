@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="ADVANTAGES OF ALTERNATIVE BASES" pageRef="src/assets/page26/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[<div class="tabRoundRect" style='width:100%; font-size:2em; color:#ffffff; background-color:#009900; display:inline-block; position:relative; padding-bottom:20px; margin-bottom:10px;padding-top:20px'>The base 10, as in <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub>10<font face="times_new_romanbold_italic"><sup>x</sup></font>,...</div>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[<div class="tabRoundRect" style='width:100%; font-size:2em; color:#ffffff; background-color:#009900; display:inline-block; position:relative; margin-bottom:10px; padding-bottom:20px; padding-top:20px'>The base <font face="times_new_romanbold_italic">e</font>, as in <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub><font face="times_new_romanbold_italic">e<sup>x</sup></font>,...</div>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[...is convenient in manipulating mathematics because of its decimal property. This base is also convenient to handle large numbers.]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[...is used frequently for things that increase in a continuous fashion.  We will discuss this in further detail shortly with respect to compound interest.<br>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".99,.01" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[<div class="tabRoundRectLeft" style='width:100%; color:#ffffff; background-color:#006699; display:inline-block; position:relative; padding:10px;margin-bottom:10px;margin-top:10px;'>The base 10, as in <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">N</font><sub>0</sub>10<font face="times_new_romanbold_italic"><sup>x</sup></font>, is convenient in manipulating large and small numbers.</div>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[Kilometer distance, gigabyte memory stick, microwave oven, nanotechnology, mega scale, millisecond, billionaire, 20 million population, 10 trillion cells in our body—all these terms have become household usage, and all these terms are expressed with base 10.]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="null"><![CDATA[Many phenomena are quantitatively defined using 10 as the base. Perception of vision and hearing, pH scale, and earthquake are just few examples.]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="null" imageSrc="page26Image1.png"><![CDATA[]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageDis=".495,.5" pageRef="src/assets/page26/"  audioId="audio0" imageSrc="page26Image2.png"><![CDATA[]]></screenText>
+
+    </index>
+</page>

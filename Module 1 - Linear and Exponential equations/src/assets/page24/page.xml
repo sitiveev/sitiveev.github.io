@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHANGING THE BASE – Example" pageRef="src/assets/page24/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="null" imageSrc="null" pageDis=".495,.5"><![CDATA[<font color="#009900">Example:<br></font>
+A bean sapling 10 cm long grows at a rate 40% every day for several days.<br>
+Write an exponential equation that describes this phenomenon.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="null" imageSrc="null" pageDis=".495,.5"><![CDATA[<font color="#009900">Example:<br></font>
+An obese person of 120 kg starts a weight-reducing treatment with an expectation of 15% reduction every year.<br>
+Write an exponential equation that describes this phenomenon.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="null" imageSrc="page24Image1.png" pageDis=".25,.25"><![CDATA[]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="null" imageSrc="null" pageDis=".23,.25"><![CDATA[<div class="tabRoundRect" style="width:94%; position:relative; display:inline-block; background-color:#009900; border:1px solid">Answer
+<div class="tabRoundRectLeft" style="width:100%; position:relative; display:inline-block; background-color:#ffffff;">40% = 0.4. So 1cm sapling becomes 1.4 cm every day.<br>
+So the general exponential equation <font face="times_new_romanbold_italic" color="#000000">y = N<sub>0</sub>a<sup>x</sup></font> becomes,<br>
+<font face="times_new_romanbold_italic" color="#000000">y = 10(1.4)<sup>x</sup></font><br>
+where <font face="times_new_romanbold_italic" color="#000000">x</font> is time in day.</div></div>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="null" imageSrc="page24Image2.png" pageDis=".25,.25"><![CDATA[]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page24/" audioId="audio0" imageSrc="null" pageDis=".23,.25"><![CDATA[<div class="tabRoundRect" style="width:94%; position:relative; display:inline-block; background-color:#009900; border:1px solid">Answer
+<div class="tabRoundRectLeft" style="width:100%; position:relative; display:inline-block; background-color:#ffffff;">15% = 0.15. So the factor by which his weight is expected to,<br>
+decrease every year = <font face="times_new_romanbold_italic" color="#000000">a</font> =  1- 0.15 = 0.85.<br>
+So the general exponential equation <font face="times_new_romanbold_italic" color="#000000">y = N<sub>0</sub>a<sup>x</sup></font> becomes,<br>
+<font face="times_new_romanbold_italic" color="#000000">y = 120(0.85)<sup>x</sup></font><br>
+where <font face="times_new_romanbold_italic" color="#000000">x</font> is time in years.</div></div>]]></screenText>
+    </index>
+</page>

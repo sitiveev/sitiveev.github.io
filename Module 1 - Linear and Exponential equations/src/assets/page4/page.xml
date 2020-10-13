@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="SLOPE OF A LINE" pageRef="src/assets/page4/" headColor="#009900" fontDesc="24px calibriregular" pageDis="1">
+        <audioArray array="audio0,audio1_1,audio1_2,audio2_1" idArray="audio0,audio1,audio2,audio3"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page4/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="page4Image1.png"><![CDATA[In very simple terms a slope of a line can be defined as how much increase there is in the y-axis for a unit change in the x-axis. Graphically put, it looks like this:
+        <br>]]></screenText>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page4/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="page4Image2.png"><![CDATA[Essentially the slope of a line provides information on how <b><i>steep or flat</b></i> a line is. It can also be visualized as a <b><i>rate of change.</b></i><br>
+]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio2" posX="15" posY="45" size="375" pageRef="src/assets/page4/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="page4Image3.png"><![CDATA[Therefore numerically speaking the slope (m) of a non-vertical line passing through points (x<sub>1</sub>, y<sub>1</sub>) and (x<sub>2</sub>, y<sub>2</sub>) is given by the formula: m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>&#8710;</mo><mi>y</mi></mrow><mrow><mo>&#8710;</mo><mi>x</mi></mrow></mfrac></math><br>
+]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio3" posX="15" posY="45" size="375" pageRef="src/assets/page4/" audio="18-machinae_supremacy-lord_krutors_dominion.ogg" imageSrc="page4Image4.png"><![CDATA[The sign and magnitude of m indicates the direction and steepness of the line, respectively.<br>]]></screenText>
+    </index>
+</page>

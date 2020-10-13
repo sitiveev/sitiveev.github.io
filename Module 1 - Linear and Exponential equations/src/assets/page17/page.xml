@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".34,.66">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page17/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q8. Which of these statements is true for the following graph?<br>
+        <img src = "src/assets/page17/image/page17Image01.png"><br></font>]]></screenText>
+        <options answer="0,0,0,0,1">
+            <option><![CDATA[<font face="calibribold" size='3.1'>The slopes of the line are greater than zero.</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>The intercept of these lines are all the same.</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>This graph represents a series of parallel lines.</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>The slopes of these lines range from -1 to +1.</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>Both A and B are true.</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option E</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+Statement A is true because for all of the lines the value of y increases with every unit increase in the value of x.<br>
+Statement B is also true because the y-intercept is true for all of the lines, i.e., they all pass through y = 0.<br>
+Therefore option E, i.e., "Both A and B are true" is the correct one.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option E</p><p><font face="calibriregular">! Read the explanation below to validate your answer.<br>
+Statement A is true because for all of the lines the value of y increases with every unit increase in the value of x.<br>
+Statement B is also true because the y-intercept is true for all of the lines, i.e., they all pass through y = 0.<br>
+Therefore option E, i.e., "Both A and B are true" is the correct one.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

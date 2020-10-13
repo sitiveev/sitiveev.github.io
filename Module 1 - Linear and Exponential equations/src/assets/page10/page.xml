@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".43,.57">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page10/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q1. The relationship between chirps made by crickets and the temperature can be expressed as a linear function. The following table shows the relationship between number of cricket chirps (per 14 seconds) and temperature (in Celsius).Express temperature as a linear function of the number of chirps.<br><br>
+        <img src = "src/assets/page10/image/page10Image01.png"><br><br></font>]]></screenText>
+        <options answer="0,0,0,1,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>T = 3C – 12</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>T = 3C + 12</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>28</mn><mn>3</mn></mfrac></math></font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>C = 3T – 4</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#ff0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option D</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+We know the relationship between temperature (T) and chirps (C) is linear in nature, i.e., takes the form T = mC + c where c is the constant.<br>
+Step 1: Determine the slope m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><msub><mi>y</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><msub><mi>x</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math>. To do so we need two points in the line. The table provides us with five points, let’s use the first two (12, 8) and (24, 12).<br>
+Therefore, m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>12</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>8</mn></mrow></mfenced><mfenced><mrow><mn>24</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>12</mn></mrow></mfenced></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>12</mn></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>3</mn></mfrac></math>.<br>
+Step 2: Determine the value of the constant. So far we know the relationship looks like this:<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math>C + c.<br>
+We can solve for c using any one of the points in the line. Let’s use the first point (12, 8).<br>
+Therefore, 8 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math> × 12 + c, i.e., c = 8 − <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math> × 12 = 8 − 4 = 4.<br>
+Therefore the relationship between temperature (T) and chirps (C) can be expressed as<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option D</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+We know the relationship between temperature (T) and chirps (C) is linear in nature, i.e., takes the form T = mC + c where c is the constant.<br>
+Step 1: Determine the slope m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><msub><mi>y</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>y</mi><mn>1</mn></msub></mrow></mfenced><mfenced><mrow><msub><mi>x</mi><mrow><mn>2</mn><mo>&#160;</mo></mrow></msub><mo>-</mo><mo>&#160;</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfenced></mfrac></math>. To do so we need two points in the line. The table provides us with five points, let’s use the first two (12, 8) and (24, 12).<br>
+Therefore, m = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>12</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>8</mn></mrow></mfenced><mfenced><mrow><mn>24</mn><mo>&#160;</mo><mo>-</mo><mo>&#160;</mo><mn>12</mn></mrow></mfenced></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>12</mn></mfrac></math> = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>3</mn></mfrac></math>.<br>
+Step 2: Determine the value of the constant. So far we know the relationship looks like this:<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math>C + c.<br>
+We can solve for c using any one of the points in the line. Let’s use the first point (12, 8).<br>
+Therefore, 8 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math> × 12 + c, i.e., c = 8 − <math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced><mfrac><mn>1</mn><mn>3</mn></mfrac></mfenced></math> × 12 = 8 − 4 = 4.<br>
+Therefore the relationship between temperature (T) and chirps (C) can be expressed as<br>
+T = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mi>C</mi><mn>3</mn></mfrac></math> + 4.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

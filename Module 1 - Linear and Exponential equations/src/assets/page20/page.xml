@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="A PRACTICAL EXAMPLE..." pageRef="src/assets/page20/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0,audio1" idArray="audio0,audio1"></audioArray>
+        <screenText color="#333333" pageDis="0.33,0.67" fontDesc="16px calibriregular" posX="15" posY="45" audioId="null" size="375" pageRef="src/assets/page20/"  imageSrc="culture1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page20/"  pageDis="0.33,0.67" imageSrc="null"><![CDATA[A culture of bacteria contains <font face="times_new_romanbold_italic">1g</font> bacteria when you start the culture at time <font face="times_new_romanbold_italic">t = 0</font> and the culture grows in such a way that the mass doubles every hour. <br><br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page20/"  pageDis="1" imageSrc="null"><![CDATA[Note: This situation is satisfactorily represented by the equation <font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic"><sup>x</sup></font> and by the <font face="times_new_romanbold_italic">plot (a)</font> in the graph. Here, <font face="times_new_romanbold_italic">y</font> is the mass of bacteria in grams and <font face="times_new_romanbold_italic">x</font> is the time in hours. The base 2 represents the fact that <font face="times_new_romanbold_italic">y</font> is doubled in every hour.<br>]]></screenText>
+        <screenText color="#333333" pageDis="0.33,0.67" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page20/"  imageSrc="graph.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" pageDis="0.33,0.67" fontDesc="16px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page20/"  imageSrc="null"><![CDATA[This equation can be used to estimate the mass of bacteria after any time <font face="times_new_romanbold_italic">x</font>, whether <font face="times_new_romanbold_italic">x</font> is an integer or a fractional part of an hour such as <font face="times_new_romanbold_italic">x</font> = 1.5h, 3.1h.]]></screenText>
+    </index>
+</page>

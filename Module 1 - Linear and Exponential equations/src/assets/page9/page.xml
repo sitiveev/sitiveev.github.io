@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="APPLICATION OF LINEAR FUNCTION" pageRef="src/assets/page9/" headColor="#009900" fontDesc="24px calibriregular" pageDis="1">
+        <audioArray array="audio0" idArray="audioHead"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page9/"  imageSrc="page9Image1.png"><![CDATA[<font color="#009900"><b>EXAMPLE 4:</b><br></font><b>A child was born weighing 4 kg. The child grew at a rate of 1 kg a month until the age of 12 months and then grew 2 kg every year until the age of 5. Can a linear equation be used to represent the child’s weight in terms of time?<br><br></b>
+Yes, but single linear equation cannot be used as there are two slopes for two different time periods, i.e., the first 12 months and the next four years. The slopes are defined as change in weight per unit time, i.e., 1 kg/month and 2 kg/year.<br>
+<font color="#009900"><b>Note: The unit of time changes depending on the time period.</font></b><br><br>
+<font color="#006699"><b>Part 1:</b></font><br>
+Linear equation for the first 12 months</b><br>
+The initial weight is the <font face="times_new_romanbold_italic">y</font>-intercept. It represents the weight at birth, i.e., when <font face="times_new_romanbold_italic">x</font> (representing time) = 0. The slope is the rate of growth, i.e., 1 kg/month. Thus the linear equation representing the child’s weight (<font face="times_new_romanbold_italic">w<sub>1</sub></font>) in term of time during the first 12 months (<font face="times_new_romanbold_italic">m</font>) is: <font face="times_new_romanbold_italic">w<sub>1</sub></font>= 4 + 1 × <font face="times_new_romanbold_italic">m</font>
+(Where <font face="times_new_romanbold_italic">m</font> (time in months) assumes values between 0 and 12.)<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audioHead" posX="15" posY="45" size="375" pageRef="src/assets/page9/"  imageSrc="page9Image2.png"><![CDATA[<font color="#009900">Part 2<br></font>
+Linear equation for the next 4 years<br>
+The weight at the end of the first 12 months is the <font face="times_new_romanbold_italic">y</font>-intercept for the second linear equation.  We have to determine this value by using the previous linear equation, i.e., weight at the end of 12 months, which is:  (<font face="times_new_romanbold_italic">w<sub>1</sub></font>) = 4 + (1 &#215 12) = 16 kg.<br>
+The slope is the rate of growth during this time period, i.e., 2 kg/year. Thus the linear equation representing the child’s weight (<font face="times_new_romanbold_italic">w<sub>2</sub></font>) in term of time during the next 4 years (<font face="times_new_romanbold_italic">y</font>) is:<br>
+<font face="times_new_romanbold_italic">w<sub>2</sub></font>= 16 + 2 &#215 <font face="times_new_romanbold_italic">y</font><br>
+Where <font face="times_new_romanbold_italic">y</font> assumes values between 0 and 4.<br>
+Both these linear equations can be plotted to illustrate the child’s final overall growth curve. However, to do so the same unit of time must be used, e.g., years, as shown here.<br>]]></screenText>
+    </index>
+</page>

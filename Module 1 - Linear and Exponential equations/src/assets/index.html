@@ -1,0 +1,23 @@
+<html>
+<body>
+
+<div id="holder"></div>
+
+<script language="JavaScript">
+	
+	var Connect = new XMLHttpRequest();
+	Connect.open("GET", "page.xml", false);
+	Connect.setRequestHeader("Content-Type", "text/xml");
+	Connect.send(null);
+
+	var xmlDoc = Connect.responseXML;
+	x=xmlDoc.getElementsByTagName("screenText");
+
+	for(i=0; i<x.length; i++)
+	{
+		document.getElementById("holder").innerHTML += x[i].childNodes[0].nodeValue;
+	}
+</script>
+
+</body>
+</html>

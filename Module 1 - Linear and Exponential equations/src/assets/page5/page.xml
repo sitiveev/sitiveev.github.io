@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="y-INTERCEPT OF A LINE"  pageRef="src/assets/page5/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0,audio1,audio2,audio3,audio4" idArray="audio0,audio1,audio2,audio5,audio6"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="1" imageSrc="null"><![CDATA[The constant c in the equation of a line, i.e., <font face="times_new_romanbold_italic">y</font>=<font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font>, represents the value of <font face="times_new_romanbold_italic">y</font> when <font face="times_new_romanbold_italic">x</font> = 0,<br> i.e., the value of <font face="times_new_romanbold_italic">y</font> where the line crosses the <font face="times_new_romanbold_italic">y</font>-axis.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="0.5,0.5" imageSrc="page5Image1.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="audio0" pageDis="0.5,0.5" imageSrc="null"><![CDATA[<div class="tabRoundRectLeft" style="position:relative;width:96%;padding:10px; background-color:#ccebcc"><font color="#009900">Forms of Linear Equations</font><br><font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font><br>
+when <font face="times_new_romanbold_italic">x</font> = 0;<br>
+<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">m</font>(0) + <font face="times_new_romanbold_italic">c</font><br>
+<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">c</font> (it is value of <font face="times_new_romanbold_italic">y</font> when <font face="times_new_romanbold_italic">x</font> = 0)</div>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="0.5,0.5" imageSrc="page5Image2.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="audio1" pageDis="0.5,0.5" imageSrc="null"><![CDATA[Observe the line with the function <font face="times_new_romanbold_italic">y</font> =2<font face="times_new_romanbold_italic">x</font> − 3<br>
+        <div class="tabRoundRectLeft" style="position:relative;width:96%;padding:10px; background-color:#ccebcc"><font color="#009900">Forms of Linear Equations</font><br>In this equation,<br>
+        <font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> - 3;<br>
+if <font face="times_new_romanbold_italic">x</font> = 0;<br><font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">2</font>(0) - 3<br>
+<font face="times_new_romanbold_italic">y</font> = 0 − 3 = − 3 (<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">c</font> = − 3)
+The value of <font face="times_new_romanbold_italic">c</font> is − 3, i.e.,
+the line crosses the <font face="times_new_romanbold_italic">y</font>-axis at a value of − 3.</div>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="0.5,0.5" imageSrc="page5Image3.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="audio2" pageDis="0.5,0.5" imageSrc="null"><![CDATA[Let us now observe graph of the given functions of line, where the only difference is the constant (<font face="times_new_romanbold_italic">c</font>) or the value of the <font face="times_new_romanbold_italic">y</font>-intercept.<br>
+        <div class="tabRoundRectLeft" style="position:relative;width:96%;padding:10px; background-color:#ccebcc"><font color="#009900">Forms of Linear Equations</font><br>
+        <font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> + 2<br>
+<font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> + 1<br>
+<font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> − 0<br>
+<font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> − 1<br>
+<font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> − 2<br>
+<font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic">x</font> − 3<br>
+These equations represent a set of parallel lines. </div>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="0.5,0.5" imageSrc="page5Image4.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="audio5" pageDis="0.5,0.5" imageSrc="null"><![CDATA[<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font>; when <font face="times_new_romanbold_italic">c</font> = 0 When the value of <font face="times_new_romanbold_italic">c</font> = 0, i.e., <font face="times_new_romanbold_italic">y</font> -intercept goes through the origin (0,0),  the equation of the line looks thus:<br>
+        <div class="tabRoundRectLeft" style="position:relative;width:96%;padding:10px; background-color:#ccebcc"><font color="#009900">Forms of Linear Equations</font><br>
+        <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c </font>;
+         when <font face="times_new_romanbold_italic">c</font> = 0<br>
+<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font> =  <font face="times_new_romanbold_italic">mx</font> + 0<br>
+i.e., <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font><br>
+(see example shown on the graph)</div>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="null" pageDis="0.5,0.5" imageSrc="page5Image5.png"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page5/" audioId="audio6" pageDis="0.5,0.5" imageSrc="null"><![CDATA[<font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font>; when <font face="times_new_romanbold_italic">m</font> = 0 When the value of <font face="times_new_romanbold_italic">m</font> = 0, i.e., the slope = 0,  the equation of the line looks thus:
+        <div class="tabRoundRectLeft" style="position:relative;width:96%;padding:10px; background-color:#ccebcc"><font color="#009900">Forms of Linear Equations</font><br>
+        <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">mx</font> + <font face="times_new_romanbold_italic">c</font> =  0 + <font face="times_new_romanbold_italic">c</font>,  i.e., <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">c</font><br>
+This means the value of <font face="times_new_romanbold_italic">y</font> remains constant regardless the value of <font face="times_new_romanbold_italic">x</font>.</div>]]></screenText>
+    </index>
+</page>

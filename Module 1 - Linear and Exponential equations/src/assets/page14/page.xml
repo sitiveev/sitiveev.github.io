@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="CHECK YOUR UNDERSTANDING" headColor="#006699" fontDesc="18px calibribold" pageDis=".34,.66">
+        <audioArray array="null" idArray="null"></audioArray>
+        <screenText color="" fontDesc="" posX="15" posY="45" size="400" pageRef="src/assets/page14/" audioId="null" imageSrc="null" type="MCSS"><![CDATA[<font face="calibribold" color="#000000">Select the appropriate options.<br></font><font face="calibriregular" color="#000000">Q5. Which of the following linear functions accurately represents the line in the graph below?<br>
+        <img src = "src/assets/page14/image/page14Image01.png"><br></font>]]></screenText>
+        <options answer="0,0,1,0,0">
+            <option><![CDATA[<font face="calibribold" size='3.1'>y = 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>y = x + 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>x = 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>x = y + 4</font>]]></option>
+            <option><![CDATA[<font face="calibribold" size='3.1'>None of the above</font>]]></option>
+        </options>
+        <FeedbackIncorrect><![CDATA[<font face="calibribold" color="#FF0000">Not Quite!<br></font>
+        <font face="calibriregular" color="#006699"><p>The Correct Answer is: Option C</p><p><font face="calibriregular">Read the explanation below to clear your understanding.<br>
+The x coordinates of all points on a vertical line are the same. Therefore, vertical lines are represented in the form x = constant value (c).<br>
+The slope of a vertical line is undefined as there can be no changes in the value of the x coordinates.<br>
+Thus in this example, the linear function is:<br>
+x = 4.<br></p></font>]]></FeedbackIncorrect>
+        <FeedbackCorrect><![CDATA[<font face="calibribold" color="#006600">That's Correct<br></font><font face="calibriregular" color="#006699"><p>The Answer is: Option C</p><p><font face="calibriregular">Read the explanation below to validate your answer.<br>
+The x coordinates of all points on a vertical line are the same. Therefore, vertical lines are represented in the form x = constant value (c).<br>
+The slope of a vertical line is undefined as there can be no changes in the value of the x coordinates.<br>
+Thus in this example, the linear function is:<br>
+x = 4.<br></p></font>]]></FeedbackCorrect>
+    </index>
+</page>

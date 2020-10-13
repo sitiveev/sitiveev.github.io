@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="INTRODUCTION" pageRef="src/assets/page1/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".35,.65">
+        <audioArray array="audio0" idArray="audioHead"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audioHead" posX="15" posY="45" size="375" pageRef="src/assets/page1/"  imageSrc="page1Image.png"><![CDATA[The processes through which living organisms grow, move, mutate, change and decay with respect to time can be described quantitatively. Mathematical equations can be used to quantitatively characterise these relationships. Some of these relationships are simple while others can be very complex. Two such types of equations are linear and exponential. We will start with the simpler class of equations, i.e., linear equations, before moving on to exponential equations.<br><br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="null" posX="15" posY="45" size="375" pageRef="src/assets/page1/"  imageSrc="null"><![CDATA[<b>CLICK NEXT TO CONTINUE</b>]]></screenText>
+    </index>
+</page>

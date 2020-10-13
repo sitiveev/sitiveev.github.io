@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="ORIGIN OF e" pageRef="src/assets/page27/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0" idArray="audioHead"></audioArray>
+
+        <screenText color="#333333" fontDesc="14px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page27/" audioId="audioHead" imageSrc="page27Image1.png"><![CDATA[<font color="#009900"><font face="calibribold_italic">The concept of the base e</font> will be illustrated using the example of compound interest.<br><br></font>
+<font face="calibribold_italic">Simple interest –</font> You lend someone $1 who agrees to pay you back with 100% interest rate after one year.  After 1 year you get $1 + $1= $2.<br><br>
+<font face="calibribold_italic">Concept of base e from the example of compound interest –</font> As above, you lend someone $1 who agrees to pay you back with 100% interest rate after one year, this time the deal is that the interest must be compounded half yearly.<br>
+ <font face="calibribold_italic">This means:</font> your accumulate $0.50 as interest after 6 months, and the total of $1 + $0.50 = $1.50 is considered as the principal for the next 6 months, and thus, you get a total of $1.50 + $0.75 = $ 2.25 after 1 year. Not bad!!<br><br>
+ Thus, your money will grow more if the interest is compounded more frequently, such as monthly, or even daily, hourly, and so on. Thus, you can get maximum return if the interest is compounded continuously, i.e. moment by moment.<br><br>
+ <font face="calibribold" color="#009900">What will be this maximum amount?</font><br><br>
+ By applying simple common sense mathematics, you will get the answer: <font face="calibribold_italic">$2.718281…</font><br><br>
+This constant, awkward and irrational number became world famous after the Swiss mathematician <font face="calibribold_italic">Leonhard Euler (1707-1783)</font> who discovered it. Euler christened the number as e which was found to be the base of many equations applicable to many natural phenomena. So much so that e is named as the natural exponential base.<br>]]></screenText>
+    </index>
+</page>

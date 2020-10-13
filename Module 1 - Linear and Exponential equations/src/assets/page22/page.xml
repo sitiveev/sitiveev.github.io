@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EXTENSION OF THE EQUATION y = 2&lt;sup&gt;x&lt;/sup&gt;" pageRef="src/assets/page22/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0,audio1,audio2" idArray="audio0,audio1,audio2"></audioArray>
+        <screenText color="#333333" fontDesc="14px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page22/"  imageSrc="culture.png"><![CDATA[What happens if the initial value of the bacterial culture is <b>not 1</b><font face="times_new_romanbold_italic">g</font>, but say <font face="times_new_romanbold_italic">N<sub>0</sub>g</font>?<br>
+          The equation will then be modified as:<br>
+          <div class="tabRoundRect" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;font-size:3em;width:90%;background-color:#009900;color:#ffffff"><font face="times_new_romanbold_italic">y</font> = N<sub>0</sub>2<font face="times_new_romanbold_italic"><sup>x</sup></font></div>
+        <font face="calibribold" color="#009900">Here, the subscript zero is used to indicate that N<sub>0</sub> is the value of y at time = 0.<br><br><br>
+<div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#009900;color:#ffffff">
+        Note:<br>
+Do you understand why 2<sup>x</sup> is multiplied by N<sub>0</sub> in this case? This is because, 2<sup>x</sup> is the factor which multiplies the initial amount N<sub>0</sub> to get y. The initial amount N<sub>0</sub> is actually 1 when we write the equation as y = 2<sup>x</sup>.<br></div>]]></screenText>
+        <screenText color="#333333" fontDesc="14px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page22/"  imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="14px calibriregular" audioId="audio2" posX="15" posY="45" size="375" pageRef="src/assets/page22/"  imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+    </index>
+</page>

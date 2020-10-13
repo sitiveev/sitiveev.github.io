@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EXPRESSING x AS UNIT OF DOUBLING TIME" pageRef="src/assets/page32/" headColor="#009900" fontDesc="24px calibriregular" pageDis="0">
+        <audioArray array="audio0,audio1,audio2" idArray="audio0,audio1,audio2"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page32/" audioId="null" imageSrc="null" pageDis="0.48,.01"><![CDATA[<Font face="calibribold" color="#006699">Concept of time constant and rate constant</Font><br><br>
+        In the previous section, we described the equations<BR>
+        <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#009900;color:#ffffff">y = 2<sup>x</sup> and y = N<sub>0</sub>2<sup>x</sup></DIV><BR>
+        where x is time in hour, and you have noted that 1 hour is the doubling time.<BR>
+        Thus, x = 3 hours means three doubling times.<BR>
+        In other words, time x is expressed in units of doubling time.<BR>
+        If the doubling time is not 1 hour, we have to divide x by the doubling time.<br>
+        <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#ccebcc;color:#333333">For example, if the doubling time is 2 hours, the number of doublings in x hours is <math><mfrac><mi>x</mi><mn>2</mn></mfrac></math>.<BR>Therefore after 4 hours (i.e., x = 4), we would have doubled twice because the doubling rate = <math><mfrac><mi>x</mi><mn>2</mn></mfrac></math> = <math><mfrac><mi>4</mi><mn>2</mn></mfrac></math> = 2.</DIV><BR>
+        If Ʈ is doubling time, the number of doublings in x hours is <math><mfrac><mi>x</mi><mn>Ʈ</mn></mfrac></math>, and the growth equation y = N<sub>0</sub>2<sup>x</sup> becomes:<BR>
+        <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#009900;color:#ffffff">y = N<sub>0</sub>(2)<sup>X/Ʈ</sup>.</DIV><BR><BR>
+        ]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page32/" audioId="null" imageSrc="null" pageDis="0.48,.01"><![CDATA[The factor Ʈ is a constant because doubling time is a specific characteristic of the given phenomenon.<BR>
+        The reciprocal of Ʈ (= <math ><mfrac><mi>1</mi><mn>Ʈ</mn></mfrac></math>) is also a constant and generally denoted by k. Using k we can rewrite the equation as<BR>
+        <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#009900;color:#ffffff">y = N<sub>0</sub>(2)<sup>kx</sup></DIV><BR>
+        The precise meaning of k depends on the specific situation. When x denotes time, k is called the rate constant, and k is related to T as k = <math><mfrac><mi>1</mi><mn>Ʈ</mn></mfrac></math>, and Ʈ in this situation is called <Font face="calibribold" color="#009900">the average life time of the event under consideration</font>.  If time x is expressed as seconds (s),k must be in s<sup>-1</sup>.<br>
+        <div class="tabRoundRectLeft" style="margin-top:10px;margin-bottom:10px;position:relative;padding:20px;width:90%;background-color:#ccebcc;color:#333333"><Font face="calibribold" color="#009900">Example:</font><br>
+        An organism doubles every 0.1 s. What is the average life time?<br>
+        <Font face="calibribold" color="#009900">Answer:</font><br>
+         Here Ʈ is 0.1 s. What is the rate constant k, and what does it mean?<br>
+k = <math><mfrac><mi>1</mi><mn>t</mn></mfrac></math> = <math><mfrac><mn>1</mn><mrow><mn>0</mn><mo>.</mo><mn>1</mn></mrow></mfrac></math> = 10. It means the organism multiplies 10 times every second.<br>
+Thus k = 10 s<sup>-1</sup><br></div>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page32/" audioId="audio0" imageSrc="null" pageDis="0.48,.01"><![CDATA[]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page32/" audioId="audio1" imageSrc="null" pageDis="0.48,.01"><![CDATA[]]></screenText>
+    </index>
+</page>

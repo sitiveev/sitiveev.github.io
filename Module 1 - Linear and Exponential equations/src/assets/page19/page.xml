@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EXPONENTIAL EQUATION – General Form" pageRef="src/assets/page19/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="page20" idArray="audioHead"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page19/" audioId="audioHead" imageSrc="page19Image1.png"><![CDATA[A general form of an exponential equation with variables <font face="times_new_romanbold_italic">x</font> and <font face="times_new_romanbold_italic">y</font> can be written as shown.<br>
+        <div class="tabRoundRect" style='width:100%; font-size:2em; color:#009900; background-color:#CFF7CF; display:inline-block; position:relative; padding-bottom:20px; padding-top:20px'><font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">a<sup>x</sup></font></div>
+        <font color="#009900">Here '<font face="times_new_romanbold_italic">a</font>' is called the base, and <font face="times_new_romanbold_italic">x</font> is called the power or the exponent.</font><br>
+We read this equation as:<br></font>
+"<font face="times_new_romanbold_italic">y</font> is equal to the base '<font face="times_new_romanbold_italic">a</font>' raised to the power <font face="times_new_romanbold_italic">x</font>."<br><br>
+The most common and convenient bases to describe exponential phenomena are: <br>
+<div class="tabRoundRect" style='width:100%; font-size:2em; color:#009900; background-color:#CFF7CF; display:inline-block; position:relative;padding-bottom:20px; padding-top:20px' ><b>2, 10,</b> and a special number <font face="times_new_romanbold_italic">e</font></div><br>
+<font color="#009900">(<font face="times_new_romanbold_italic">e</font> is equal to 2.718 and is referred to as the natural exponential base)<br><br></font>
+The corresponding exponential equations in simple forms are:<br>
+<div class="tabRoundRect" style='width:100%; font-size:2em; color:#009900; background-color:#CFF7CF; display:inline-block; position:relative;padding-bottom:20px; padding-top:20px'><font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic"><sup>x</sup></font>, <font face="times_new_romanbold_italic">y</font> = 10<font face="times_new_romanbold_italic"><sup>x</sup></font>, & <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">e<sup>x</sup></font></div><br>
+The graphical representations of these three equations are shown. Here <b>plot (a) is</b> <font face="times_new_romanbold_italic">y</font> = 2<font face="times_new_romanbold_italic"><sup>x</sup></font>, <b>plot (b) is</b> <font face="times_new_romanbold_italic">y</font> = <font face="times_new_romanbold_italic">e<sup>x</sup></font>, and <b>plot (c) is</b> <font face="times_new_romanbold_italic">y</font> = 10<font face="times_new_romanbold_italic"><sup>x</sup></font>.<br>
+<font color="#009900"><font face="times_new_romanbold_italic">Note: All these plots pass through (0, 1).<br>
+Also note that at x = 1, the y value is 2 for plot (a), e (= 2.718…) for (b), and 10 for plot (c).</font></font><br>]]></screenText>
+    </index>
+</page>

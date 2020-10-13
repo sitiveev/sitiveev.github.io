@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<questions>
+    <question type='MCSS'>
+        <stem><![CDATA[Linear functions take which of the following forms?<br><font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,0,0,1">
+            <option><![CDATA[y = 3]]></option>
+            <option><![CDATA[y = 9x + 2]]></option>
+            <option><![CDATA[x = 7]]></option>
+            <option><![CDATA[f(x) = 4x]]></option>
+            <option><![CDATA[All of the above.]]></option>
+        </options>
+	</question>
+    <question type='MCSS'>
+        <stem><![CDATA[The slope of the line that passes through the points (-2, 5) and (3,-1) is…<br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,1,0,0">
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>-</mo><mn>5</mn></mrow><mn>6</mn></mfrac></math>]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>5</mn><mn>6</mn></mfrac></math>]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>-</mo><mn>6</mn></mrow><mn>5</mn></mfrac></math>]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>6</mn><mn>5</mn></mfrac></math>]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>5</mn></mfrac></math>]]></option>
+        </options>
+	</question>
+    <question type='MCSS'>
+        <stem><![CDATA[Which is the slope and y intercept for the line 4x + 3y = 12?<br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,1,0,0,0">
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>-</mo><mn>3</mn></mrow><mn>4</mn></mfrac></math> and 3]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mo>-</mo><mn>4</mn></mrow><mn>3</mn></mfrac></math> and 4]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>3</mn><mn>4</mn></mfrac></math> and 4]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>3</mn></mfrac></math> and 3]]></option>
+            <option><![CDATA[4 and 12]]></option>
+        </options>
+	</question>
+    <question type='MCSS'>
+        <stem><![CDATA[A furniture rental company charges a flat fee of $100 plus $5 a chair a month. The following represents the correct algebraic expression representing the monthly cost (m) as a function of the total number of chairs (c). <br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,0,1,0">
+            <option><![CDATA[c = 100m + 5]]></option>
+            <option><![CDATA[100 = 5m - c]]></option>
+            <option><![CDATA[c = 5m + 100]]></option>
+            <option><![CDATA[m = 5c + 100]]></option>
+            <option><![CDATA[m = 100c + 5]]></option>
+        </options>
+	</question>
+    <question type='MCSS'>
+        <stem><![CDATA[The equation 2<sup>3</sup> = 8 contains three numbers: 2, 3, and 8. One of them is called the ‘base’ and one is called the ‘exponent’. Which of the following represents (base, exponent) pair? <br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,1,0,0,0">
+            <option><![CDATA[(2,8)]]></option>
+            <option><![CDATA[(2,3)]]></option>
+            <option><![CDATA[(3,8)]]></option>
+            <option><![CDATA[(8,3)]]></option>
+            <option><![CDATA[(3,2)]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[A bacterial culture is started with a single bacterium at time zero. The number doubles every hour (doubling time = 1 h). Which of the following equations can be used to estimate the number of bacteria after a period of time? <br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,1,0,0">
+            <option><![CDATA[y = 10<sup>x</sup>]]></option>
+            <option><![CDATA[y = e<sup>x</sup>]]></option>
+            <option><![CDATA[y = 2<sup>x</sup>]]></option>
+            <option><![CDATA[y = x<sup>2</sup>]]></option>
+            <option><![CDATA[I don’t know]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[You invest $1 for one year at 100% annual interest compounded continuously. Which of the following equations is the appropriate and simplest to use to find the amount, Pt, at the end of one year?<br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="1,0,0,0,0">
+            <option><![CDATA[P<sub>t</sub> = e]]></option>
+            <option><![CDATA[P<sub>t</sub> = e<sup>r</sup> ]]></option>
+            <option><![CDATA[P<sub>t</sub> = P<sub>0</sub>e<sup>r</sup> ]]></option>
+            <option><![CDATA[P<sub>t</sub> = P<sub>0</sub>e<sup>rt</sup> ]]></option>
+            <option><![CDATA[I don’t know]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[The price of a new car is $100,000. The value of the car depreciates every year by 20%. Which of the following equations is the appropriate and simplest to use to find the value, Pt, at the end of five years?<br> <font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,1,0,0,0">
+            <option><![CDATA[(1 P<sub>t</sub> = P<sub>0</sub> + r)<sup>t</sup> ]]></option>
+            <option><![CDATA[P<sub>t</sub> = P<sub>0</sub>(1- r)<sup>t</sup> ]]></option>
+            <option><![CDATA[P<sub>t</sub> = P<sub>0</sub>e<sup>-r</sup> ]]></option>
+            <option><![CDATA[P<sub>t</sub> = P<sub>0</sub>e<sup>-rt</sup> ]]></option>
+            <option><![CDATA[I don’t know]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[Which set of linear equations represent parallel lines?<br><font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,0,1,0">
+            <option><![CDATA[3x + 3, 3x + 49, 3x]]></option>
+            <option><![CDATA[12x, 12x + lne, 12x + 4<sup>2</sup>]]></option>
+            <option><![CDATA[2x+2, 3x+2, 4x+2]]></option>
+            <option><![CDATA[Only a and b]]></option>
+            <option><![CDATA[Only a and c ]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[Which of the following equation is linear in nature?<br><font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,1,0,0">
+            <option><![CDATA[y = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>4</mn><mn>x</mn></mfrac></math> + 3]]></option>
+            <option><![CDATA[y = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mfenced><mrow><mn>3</mn><mi>x</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><mn>3</mn><mi>x</mi><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mn>3</mn></mrow></mfenced></mfrac></math>]]></option>
+            <option><![CDATA[y - 4 = 3x]]></option>
+            <option><![CDATA[y - 4 = <math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mn>x</mn></mfrac></math>]]></option>
+            <option><![CDATA[<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>y</mn><mn>x</mn></mfrac></math> = 4]]></option>
+        </options>
+    </question>
+    <question type='MCSS'>
+        <stem><![CDATA[Which of the following statements is not true?<br><font face ="calibribold">Select the appropriate option and click submit.</font>]]></stem>
+        <options answer="0,0,0,0,1">
+            <option><![CDATA[Parallel lines do not intersect.]]></option>
+            <option><![CDATA[The slope is not defined in a vertical line parallel to the y-axis.]]></option>
+            <option><![CDATA[A linear equation cannot have a squared term in its simplest form.]]></option>
+            <option><![CDATA[A slope can be positive, negative or even equal to zero.]]></option>
+            <option><![CDATA[In a linear equation with a negative slope the value of the y-intercept will always be less than zero.]]></option>
+        </options>
+    </question>
+</questions>
+</data>
+

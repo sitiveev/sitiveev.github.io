@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="EXTENSION OF THE EQUATION y = 2&lt;sup&gt;x&lt;/sup&gt;" pageRef="src/assets/page30/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".495,.5">
+        <audioArray array="audio0" idArray="audio0"></audioArray>
+
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page30/" audioId="audio0" imageSrc="page30Image1.png"><![CDATA[The beauty of the equation,<br>
+
+<div class="tabRoundRect" style="margin-top:10px;position:relative;padding:20px;font-size:2em;width:90%;background-color:#009900;color:#ffffff">
+    <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>&#160;</mo><mo>=</mo><mo>&#160;</mo><msup><mfenced><mrow><mn>1</mn><mo>&#160;</mo><mo>+</mo><mo>&#160;</mo><mfrac><mn>1</mn><mi>n</mi></mfrac></mrow></mfenced><mi>n</mi></msup></math><br>
+As you increase the value of <font face="times_new_romanbold_italic">n</font>, you are actually breaking one year into more number of intervals. Thus, the situation approaches continuous compounding as <font face="times_new_romanbold_italic">n</font> approaches infinity (<font face="times_new_romanbold_italic">n</font> → ∞).<br><br>
+
+ <font face="calibribold" color="#006699">Isn’t this exactly the definition of our magic number <font face="times_new_romanbold_italic">e</font> that we were introduced to earlier?</b><br></font><br>
+
+It is worth quoting from above:<br>
+  "At <font face="times_new_romanbold_italic">100%</font> yearly interest compounded continuously, the total amount earned on <font face="times_new_romanbold_italic">$1</font> for one year is <font face="times_new_romanbold_italic">y = e<sup>1</sup></font> or simply <font face="times_new_romanbold_italic">y = e</font>".<br><br>
+The graph shows how this expression, plotted as <font face="times_new_romanbold_italic">y</font>, as <font face="times_new_romanbold_italic">n</font> approaches infinity (<font face="times_new_romanbold_italic">n</font> is plotted in the <font face="times_new_romanbold_italic">x</font>-<font face="times_new_romanbold_italic">axis</font>).<br>]]></screenText>
+    </index>
+</page>

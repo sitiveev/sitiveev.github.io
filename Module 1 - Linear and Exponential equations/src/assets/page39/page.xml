@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="SUMMARY" pageRef="src/assets/page39/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".5,.5">
+        <audioArray array="audio0,audio1,audio2,audio3,audio4" idArray="audio0,audio1,audio2,audio3,audio4"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" posX="15" posY="45" size="375" pageRef="src/assets/page39/" audioId="audio0" imageSrc="DNA.png"><![CDATA[Linear equations may be the simplest form of the equation, but its simplicity and elegance lead scientists to attempt to reduce all complex functions to this form.<br>
+Exponential functions can be converted to a much simpler form of linear equations using the logarithmic function.<br>
+The next module discusses how we can linearise exponential functions using logarithms.<br>
+This tool is very important to understand, analyze and describe biological and other salient phenomena.<br>
+Ultimately linear, exponential and linear equations form the underpinnings of the field of calculus which allows us to understand not only the relationship between time and different factors in biological relationships but also understand the nature of change in these relationships across time.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page39/"  pageDis="1" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio2" posX="15" posY="45" size="375" pageRef="src/assets/page39/"  pageDis="1" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio3" posX="15" posY="45" size="375" pageRef="src/assets/page39/"  pageDis="1" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio4" posX="15" posY="45" size="375" pageRef="src/assets/page39/"  pageDis="1" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+    </index>
+</page>

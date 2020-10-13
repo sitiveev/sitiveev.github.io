@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+    <index id="0" type="audio" head="OBJECTIVES" pageRef="src/assets/page2/" headColor="#009900" fontDesc="24px calibriregular" pageDis=".33,.67">
+        <audioArray array="audio0,audio1,audio2,audio3,audio4,audio5" idArray="audio0,audio1,audio2,audio3,audio4,audio5"></audioArray>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio0" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="page1Image.png"><![CDATA[To become familiar with linear and exponential functions by:<br><br>
+•	Understanding the properties of lines including, forms of the equation of a line, the slope of a line, and intercept.<br>
+•	Understanding the nature of perpendicular and parallel lines.<br>
+•	Understanding the practical applications of linear functions.<br>
+•	Understanding the general form of exponential equations including the significance of the base and power of a function and its applications.<br>
+•	Understanding the special forms of the base in an exponential function.<br>
+•	Understanding the concept of e.<br>]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio1" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio2" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio3" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio4" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+        <screenText color="#333333" fontDesc="16px calibriregular" audioId="audio5" posX="15" posY="45" size="375" pageRef="src/assets/page1/" imageSrc="null"><![CDATA[&nbsp;]]></screenText>
+    </index>
+</page>
